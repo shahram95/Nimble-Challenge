@@ -33,12 +33,12 @@ To set up the environment for this project, please follow these steps:
 - [x] **1. Server Program**
   - Make a server python program that runs from the command line (`python3 server.py`).
 
-- [ ] **2. Client Program**
+- [x] **2. Client Program**
   - Make a client python program that runs from the command line (`python3 client.py`).
 
-- [ ] **3. Using `aiortc` built-in `TcpSocketSignaling`**
+- [x] **3. Using `aiortc` built-in `TcpSocketSignaling`**
   - [x] (a) The server should create an `aiortc offer` and send to client.
-  - [ ] (b) The client should receive the offer and create an `aiortc answer`.
+  - [x] (b) The client should receive the offer and create an `aiortc answer`.
 
 - [ ] **4. Image Generation**
   - The server should generate a continuous 2D image/frames of a ball bouncing across the screen.
