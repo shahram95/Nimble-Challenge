@@ -1,5 +1,25 @@
 # Nimble Programming Challenge
 
+## Setup instructions
+
+To set up the environment for this project, please follow these steps:
+
+1. **Create a new Conda environment:**
+   ```bash
+   conda create -n "nimble_env" python=3.10 pip
+   ```
+
+2. **Activate the Conda environment:**
+   ```bash
+   conda activate nimble_env
+   ```
+
+3. **Install the required packages:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
 ## Skills Needed
 - Linux (Ubuntu 22.04+ recommended)
 - Python 3 (3.10+ recommended)
