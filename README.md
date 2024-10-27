@@ -76,7 +76,7 @@ To set up the environment for this project, please follow these steps:
 - [ ] **15. README**
   - Include a `README` file.
 
-- [ ] **16. Screen Capture**
+- [x] **16. Screen Capture**
   - Include a screen capture (mp4, mkv, avi, etc.) of your application in action.
 
 - [ ] **17. Project Compression**
