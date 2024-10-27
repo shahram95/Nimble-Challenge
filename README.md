@@ -70,7 +70,7 @@ To set up the environment for this project, please follow these steps:
 - [x] **13. Documentation**
   - Document all code using python docstrings.
 
-- [ ] **14. Unit Tests**
+- [x] **14. Unit Tests**
   - Write unit tests for all functions which will be executed by pytest (`pytest test_YOUR_SCRIPT.py`).
 
 - [ ] **15. README**
