@@ -1,0 +1,43 @@
+2024-10-27 16:28:17,329 - INFO - client - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-27 16:28:17,360 - INFO - client - Connecting to server at 127.0.0.1:8080
+2024-10-27 16:28:17,362 - INFO - client - Frame processor started
+2024-10-27 16:28:17,376 - INFO - client - Video track received and processing started
+2024-10-27 16:28:17,413 - INFO - client - Sent answer to server
+2024-10-27 16:28:17,455 - INFO - client - Data channel 'coordinates' established
+2024-10-27 16:28:17,675 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 16:28:17,698 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 16:28:17,715 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 16:28:17,731 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 16:28:17,747 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 16:28:22,383 - INFO - client - Sent 84 position updates in 5.0s (16.8 updates/s)
+2024-10-27 16:28:22,405 - INFO - client - Received 148 frames in 5.0s (29.4 FPS)
+2024-10-27 16:28:27,392 - INFO - client - Sent 182 position updates in 10.0s (18.2 updates/s)
+2024-10-27 16:28:27,408 - INFO - client - Received 298 frames in 10.0s (29.7 FPS)
+2024-10-27 16:28:32,394 - INFO - client - Sent 285 position updates in 15.0s (19.0 updates/s)
+2024-10-27 16:28:32,409 - INFO - client - Received 448 frames in 15.0s (29.8 FPS)
+2024-10-27 16:28:37,414 - INFO - client - Sent 378 position updates in 20.0s (18.9 updates/s)
+2024-10-27 16:28:37,438 - INFO - client - Received 599 frames in 20.1s (29.9 FPS)
+2024-10-27 16:28:42,415 - INFO - client - Sent 469 position updates in 25.0s (18.7 updates/s)
+2024-10-27 16:28:42,472 - INFO - client - Received 750 frames in 25.1s (29.9 FPS)
+2024-10-27 16:28:47,416 - INFO - client - Sent 573 position updates in 30.0s (19.1 updates/s)
+2024-10-27 16:28:47,472 - INFO - client - Received 900 frames in 30.1s (29.9 FPS)
+2024-10-27 16:28:52,425 - INFO - client - Sent 669 position updates in 35.1s (19.1 updates/s)
+2024-10-27 16:28:52,505 - INFO - client - Received 1051 frames in 35.1s (29.9 FPS)
+2024-10-27 16:28:57,431 - INFO - client - Sent 771 position updates in 40.1s (19.2 updates/s)
+2024-10-27 16:28:57,505 - INFO - client - Received 1201 frames in 40.1s (29.9 FPS)
+2024-10-27 16:29:02,428 - INFO - client - Sent 863 position updates in 45.1s (19.2 updates/s)
+2024-10-27 16:29:02,538 - INFO - client - Received 1352 frames in 45.2s (29.9 FPS)
+2024-10-27 16:29:07,472 - INFO - client - Sent 961 position updates in 50.1s (19.2 updates/s)
+2024-10-27 16:29:07,573 - INFO - client - Received 1503 frames in 50.2s (29.9 FPS)
+2024-10-27 16:29:12,483 - INFO - client - Sent 1058 position updates in 55.1s (19.2 updates/s)
+2024-10-27 16:29:12,604 - INFO - client - Received 1654 frames in 55.2s (29.9 FPS)
+2024-10-27 16:29:17,517 - INFO - client - Sent 1147 position updates in 60.2s (19.1 updates/s)
+2024-10-27 16:29:17,606 - INFO - client - Received 1804 frames in 60.2s (30.0 FPS)
+2024-10-27 16:29:22,584 - INFO - client - Sent 1247 position updates in 65.2s (19.1 updates/s)
+2024-10-27 16:29:22,640 - INFO - client - Received 1955 frames in 65.3s (30.0 FPS)
+2024-10-27 16:29:27,587 - INFO - client - Sent 1338 position updates in 70.2s (19.1 updates/s)
+2024-10-27 16:29:27,674 - INFO - client - Received 2106 frames in 70.3s (30.0 FPS)
+2024-10-27 16:29:32,617 - INFO - client - Sent 1428 position updates in 75.3s (19.0 updates/s)
+2024-10-27 16:29:32,704 - INFO - client - Received 2257 frames in 75.3s (30.0 FPS)
+2024-10-27 16:29:34,088 - INFO - client - Stopped by user
+2024-10-27 16:29:34,093 - INFO - client - Application terminated
