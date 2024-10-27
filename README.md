@@ -40,34 +40,34 @@ To set up the environment for this project, please follow these steps:
   - [x] (a) The server should create an `aiortc offer` and send to client.
   - [x] (b) The client should receive the offer and create an `aiortc answer`.
 
-- [ ] **4. Image Generation**
+- [x] **4. Image Generation**
   - The server should generate a continuous 2D image/frames of a ball bouncing across the screen.
 
-- [ ] **5. Image Transmission**
+- [x] **5. Image Transmission**
   - The server should transmit these images to the client via `aiortc` using frame transport (extend `aiortc.MediaStreamTrack`).
 
-- [ ] **6. Image Display**
+- [x] **6. Image Display**
   - The client should display the received images using `opencv`.
 
-- [ ] **7. Multiprocessing Process**
+- [x] **7. Multiprocessing Process**
   - The client should start a new `multiprocessing.Process` (process_a).
 
-- [ ] **8. Frame Communication**
+- [x] **8. Frame Communication**
   - The client should send every received frame to this process using a `multiprocessing.Queue`.
 
-- [ ] **9. Image Parsing**
+- [x] **9. Image Parsing**
   - The client `process_a` should parse the image and determine the current location of the ball as `x,y` coordinates.
 
-- [ ] **10. Coordinate Storage**
+- [x] **10. Coordinate Storage**
   - The client `process_a` should store the computed `x,y` coordinate as a `multiprocessing.Value`.
 
-- [ ] **11. Data Channel Communication**
+- [x] **11. Data Channel Communication**
   - The client should open an `aiortc` data channel to the server and send each `x,y` coordinate to the server. These coordinates are from `process_a` but sent to the server from the client main thread.
 
-- [ ] **12. Error Computation**
+- [x] **12. Error Computation**
   - The server program should display the received coordinates and compute the error to the actual location of the ball.
 
-- [ ] **13. Documentation**
+- [x] **13. Documentation**
   - Document all code using python docstrings.
 
 - [ ] **14. Unit Tests**

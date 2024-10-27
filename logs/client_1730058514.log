@@ -1,0 +1,9 @@
+2024-10-27 15:48:34,754 - INFO - client - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-27 15:48:34,778 - INFO - client - Connecting to server at 127.0.0.1:8080
+2024-10-27 15:48:34,781 - INFO - client - Frame processor started
+2024-10-27 15:48:34,783 - ERROR - client - Connection error: [Errno 61] Connect call failed ('127.0.0.1', 8080)
+2024-10-27 15:48:40,588 - INFO - client - Stopped by user
+2024-10-27 15:48:40,591 - INFO - client - Application terminated
+2024-10-27 15:48:40,610 - INFO - client - Cleaning up after 5.8s runtime...
+2024-10-27 15:48:40,610 - INFO - client - Connection state changed to: closed
+2024-10-27 15:48:40,610 - INFO - client - Cleanup completed

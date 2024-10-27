@@ -1,0 +1,4136 @@
+2024-10-27 15:46:43,480 - INFO - __main__ - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False}
+2024-10-27 15:46:43,493 - INFO - __main__ - Starting server on 127.0.0.1:8080
+2024-10-27 15:46:46,145 - INFO - __main__ - Server ready - waiting for connections
+2024-10-27 15:46:46,199 - INFO - __main__ - Connection state changed to: connecting
+2024-10-27 15:46:46,226 - INFO - __main__ - Connection state changed to: connected
+2024-10-27 15:46:46,555 - INFO - __main__ - 
+Position Update:
+  Actual Position: (95, 295)
+  Detected Position: (45, 245)
+  Current Error: 70.71px
+  Average Error: 70.71px
+  Error Std Dev: 0.00px
+  Tracking Duration: 3.1s
+2024-10-27 15:46:46,588 - INFO - __main__ - 
+Position Update:
+  Actual Position: (100, 300)
+  Detected Position: (75, 274)
+  Current Error: 36.07px
+  Average Error: 53.39px
+  Error Std Dev: 17.32px
+  Tracking Duration: 3.1s
+2024-10-27 15:46:46,635 - INFO - __main__ - 
+Position Update:
+  Actual Position: (110, 310)
+  Detected Position: (91, 290)
+  Current Error: 27.59px
+  Average Error: 44.79px
+  Error Std Dev: 18.65px
+  Tracking Duration: 3.1s
+2024-10-27 15:46:46,692 - INFO - __main__ - 
+Position Update:
+  Actual Position: (115, 315)
+  Detected Position: (105, 305)
+  Current Error: 14.14px
+  Average Error: 37.13px
+  Error Std Dev: 20.91px
+  Tracking Duration: 3.2s
+2024-10-27 15:46:46,759 - INFO - __main__ - 
+Position Update:
+  Actual Position: (125, 325)
+  Detected Position: (110, 310)
+  Current Error: 21.21px
+  Average Error: 33.94px
+  Error Std Dev: 19.75px
+  Tracking Duration: 3.3s
+2024-10-27 15:46:46,792 - INFO - __main__ - 
+Position Update:
+  Actual Position: (130, 330)
+  Detected Position: (119, 320)
+  Current Error: 14.87px
+  Average Error: 30.76px
+  Error Std Dev: 19.38px
+  Tracking Duration: 3.3s
+2024-10-27 15:46:46,825 - INFO - __main__ - 
+Position Update:
+  Actual Position: (135, 335)
+  Detected Position: (125, 325)
+  Current Error: 14.14px
+  Average Error: 28.39px
+  Error Std Dev: 18.86px
+  Tracking Duration: 3.3s
+2024-10-27 15:46:46,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (140, 340)
+  Detected Position: (130, 329)
+  Current Error: 14.87px
+  Average Error: 26.70px
+  Error Std Dev: 18.20px
+  Tracking Duration: 3.4s
+2024-10-27 15:46:46,892 - INFO - __main__ - 
+Position Update:
+  Actual Position: (145, 345)
+  Detected Position: (135, 335)
+  Current Error: 14.14px
+  Average Error: 25.30px
+  Error Std Dev: 17.61px
+  Tracking Duration: 3.4s
+2024-10-27 15:46:46,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (155, 355)
+  Detected Position: (145, 345)
+  Current Error: 14.14px
+  Average Error: 24.19px
+  Error Std Dev: 17.04px
+  Tracking Duration: 3.5s
+2024-10-27 15:46:46,992 - INFO - __main__ - 
+Position Update:
+  Actual Position: (160, 360)
+  Detected Position: (151, 350)
+  Current Error: 13.45px
+  Average Error: 23.21px
+  Error Std Dev: 16.54px
+  Tracking Duration: 3.5s
+2024-10-27 15:46:47,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (165, 365)
+  Detected Position: (155, 355)
+  Current Error: 14.14px
+  Average Error: 22.46px
+  Error Std Dev: 16.03px
+  Tracking Duration: 3.5s
+2024-10-27 15:46:47,059 - INFO - __main__ - 
+Position Update:
+  Actual Position: (170, 370)
+  Detected Position: (160, 359)
+  Current Error: 14.87px
+  Average Error: 21.87px
+  Error Std Dev: 15.53px
+  Tracking Duration: 3.6s
+2024-10-27 15:46:47,092 - INFO - __main__ - 
+Position Update:
+  Actual Position: (175, 375)
+  Detected Position: (165, 365)
+  Current Error: 14.14px
+  Average Error: 21.32px
+  Error Std Dev: 15.10px
+  Tracking Duration: 3.6s
+2024-10-27 15:46:47,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (180, 380)
+  Detected Position: (170, 370)
+  Current Error: 14.14px
+  Average Error: 20.84px
+  Error Std Dev: 14.70px
+  Tracking Duration: 3.6s
+2024-10-27 15:46:47,159 - INFO - __main__ - 
+Position Update:
+  Actual Position: (185, 385)
+  Detected Position: (175, 375)
+  Current Error: 14.14px
+  Average Error: 20.42px
+  Error Std Dev: 14.32px
+  Tracking Duration: 3.7s
+2024-10-27 15:46:47,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (190, 390)
+  Detected Position: (181, 380)
+  Current Error: 13.45px
+  Average Error: 20.01px
+  Error Std Dev: 13.99px
+  Tracking Duration: 3.7s
+2024-10-27 15:46:47,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (195, 395)
+  Detected Position: (185, 385)
+  Current Error: 14.14px
+  Average Error: 19.69px
+  Error Std Dev: 13.66px
+  Tracking Duration: 3.7s
+2024-10-27 15:46:47,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (200, 400)
+  Detected Position: (190, 389)
+  Current Error: 14.87px
+  Average Error: 19.43px
+  Error Std Dev: 13.34px
+  Tracking Duration: 3.8s
+2024-10-27 15:46:47,292 - INFO - __main__ - 
+Position Update:
+  Actual Position: (205, 405)
+  Detected Position: (195, 395)
+  Current Error: 14.14px
+  Average Error: 19.17px
+  Error Std Dev: 13.06px
+  Tracking Duration: 3.8s
+2024-10-27 15:46:47,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (215, 415)
+  Detected Position: (205, 405)
+  Current Error: 14.14px
+  Average Error: 18.93px
+  Error Std Dev: 12.79px
+  Tracking Duration: 3.9s
+2024-10-27 15:46:47,392 - INFO - __main__ - 
+Position Update:
+  Actual Position: (220, 420)
+  Detected Position: (211, 410)
+  Current Error: 13.45px
+  Average Error: 18.68px
+  Error Std Dev: 12.54px
+  Tracking Duration: 3.9s
+2024-10-27 15:46:47,425 - INFO - __main__ - 
+Position Update:
+  Actual Position: (225, 425)
+  Detected Position: (215, 415)
+  Current Error: 14.14px
+  Average Error: 18.48px
+  Error Std Dev: 12.30px
+  Tracking Duration: 3.9s
+2024-10-27 15:46:47,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (230, 430)
+  Detected Position: (220, 419)
+  Current Error: 14.87px
+  Average Error: 18.33px
+  Error Std Dev: 12.07px
+  Tracking Duration: 4.0s
+2024-10-27 15:46:47,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (235, 435)
+  Detected Position: (225, 425)
+  Current Error: 14.14px
+  Average Error: 18.16px
+  Error Std Dev: 11.85px
+  Tracking Duration: 4.0s
+2024-10-27 15:46:47,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (240, 440)
+  Detected Position: (230, 430)
+  Current Error: 14.14px
+  Average Error: 18.01px
+  Error Std Dev: 11.65px
+  Tracking Duration: 4.0s
+2024-10-27 15:46:47,559 - INFO - __main__ - 
+Position Update:
+  Actual Position: (245, 445)
+  Detected Position: (235, 435)
+  Current Error: 14.14px
+  Average Error: 17.87px
+  Error Std Dev: 11.45px
+  Tracking Duration: 4.1s
+2024-10-27 15:46:47,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (250, 450)
+  Detected Position: (241, 440)
+  Current Error: 13.45px
+  Average Error: 17.71px
+  Error Std Dev: 11.28px
+  Tracking Duration: 4.1s
+2024-10-27 15:46:47,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (260, 460)
+  Detected Position: (250, 451)
+  Current Error: 13.45px
+  Average Error: 17.56px
+  Error Std Dev: 11.11px
+  Tracking Duration: 4.2s
+2024-10-27 15:46:47,727 - INFO - __main__ - 
+Position Update:
+  Actual Position: (270, 450)
+  Detected Position: (260, 460)
+  Current Error: 14.14px
+  Average Error: 17.45px
+  Error Std Dev: 10.94px
+  Tracking Duration: 4.2s
+2024-10-27 15:46:47,794 - INFO - __main__ - 
+Position Update:
+  Actual Position: (280, 440)
+  Detected Position: (271, 451)
+  Current Error: 14.21px
+  Average Error: 17.34px
+  Error Std Dev: 10.77px
+  Tracking Duration: 4.3s
+2024-10-27 15:46:47,860 - INFO - __main__ - 
+Position Update:
+  Actual Position: (290, 430)
+  Detected Position: (280, 440)
+  Current Error: 14.14px
+  Average Error: 17.24px
+  Error Std Dev: 10.62px
+  Tracking Duration: 4.4s
+2024-10-27 15:46:47,925 - INFO - __main__ - 
+Position Update:
+  Actual Position: (300, 420)
+  Detected Position: (290, 430)
+  Current Error: 14.14px
+  Average Error: 17.15px
+  Error Std Dev: 10.47px
+  Tracking Duration: 4.4s
+2024-10-27 15:46:47,958 - INFO - __main__ - 
+Position Update:
+  Actual Position: (305, 415)
+  Detected Position: (295, 425)
+  Current Error: 14.14px
+  Average Error: 17.06px
+  Error Std Dev: 10.33px
+  Tracking Duration: 4.5s
+2024-10-27 15:46:47,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (310, 410)
+  Detected Position: (301, 421)
+  Current Error: 14.21px
+  Average Error: 16.98px
+  Error Std Dev: 10.19px
+  Tracking Duration: 4.5s
+2024-10-27 15:46:48,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (315, 405)
+  Detected Position: (305, 415)
+  Current Error: 14.14px
+  Average Error: 16.90px
+  Error Std Dev: 10.06px
+  Tracking Duration: 4.5s
+2024-10-27 15:46:48,094 - INFO - __main__ - 
+Position Update:
+  Actual Position: (325, 395)
+  Detected Position: (315, 405)
+  Current Error: 14.14px
+  Average Error: 16.83px
+  Error Std Dev: 9.93px
+  Tracking Duration: 4.6s
+2024-10-27 15:46:48,159 - INFO - __main__ - 
+Position Update:
+  Actual Position: (335, 385)
+  Detected Position: (325, 395)
+  Current Error: 14.14px
+  Average Error: 16.76px
+  Error Std Dev: 9.81px
+  Tracking Duration: 4.7s
+2024-10-27 15:46:48,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (345, 375)
+  Detected Position: (335, 385)
+  Current Error: 14.14px
+  Average Error: 16.69px
+  Error Std Dev: 9.69px
+  Tracking Duration: 4.7s
+2024-10-27 15:46:48,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (355, 365)
+  Detected Position: (345, 375)
+  Current Error: 14.14px
+  Average Error: 16.63px
+  Error Std Dev: 9.58px
+  Tracking Duration: 4.8s
+2024-10-27 15:46:48,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (365, 355)
+  Detected Position: (355, 365)
+  Current Error: 14.14px
+  Average Error: 16.56px
+  Error Std Dev: 9.47px
+  Tracking Duration: 4.9s
+2024-10-27 15:46:48,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (375, 345)
+  Detected Position: (365, 355)
+  Current Error: 14.14px
+  Average Error: 16.51px
+  Error Std Dev: 9.36px
+  Tracking Duration: 4.9s
+2024-10-27 15:46:48,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (380, 340)
+  Detected Position: (370, 350)
+  Current Error: 14.14px
+  Average Error: 16.45px
+  Error Std Dev: 9.26px
+  Tracking Duration: 5.0s
+2024-10-27 15:46:48,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (385, 335)
+  Detected Position: (375, 345)
+  Current Error: 14.14px
+  Average Error: 16.40px
+  Error Std Dev: 9.16px
+  Tracking Duration: 5.0s
+2024-10-27 15:46:48,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (395, 325)
+  Detected Position: (385, 335)
+  Current Error: 14.14px
+  Average Error: 16.35px
+  Error Std Dev: 9.06px
+  Tracking Duration: 5.1s
+2024-10-27 15:46:48,627 - INFO - __main__ - 
+Position Update:
+  Actual Position: (405, 315)
+  Detected Position: (395, 325)
+  Current Error: 14.14px
+  Average Error: 16.30px
+  Error Std Dev: 8.97px
+  Tracking Duration: 5.1s
+2024-10-27 15:46:48,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (415, 305)
+  Detected Position: (405, 315)
+  Current Error: 14.14px
+  Average Error: 16.26px
+  Error Std Dev: 8.88px
+  Tracking Duration: 5.2s
+2024-10-27 15:46:48,761 - INFO - __main__ - 
+Position Update:
+  Actual Position: (425, 295)
+  Detected Position: (415, 305)
+  Current Error: 14.14px
+  Average Error: 16.21px
+  Error Std Dev: 8.79px
+  Tracking Duration: 5.3s
+2024-10-27 15:46:48,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (435, 285)
+  Detected Position: (425, 295)
+  Current Error: 14.14px
+  Average Error: 16.17px
+  Error Std Dev: 8.71px
+  Tracking Duration: 5.3s
+2024-10-27 15:46:48,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (445, 275)
+  Detected Position: (435, 285)
+  Current Error: 14.14px
+  Average Error: 16.13px
+  Error Std Dev: 8.62px
+  Tracking Duration: 5.4s
+2024-10-27 15:46:48,961 - INFO - __main__ - 
+Position Update:
+  Actual Position: (455, 265)
+  Detected Position: (445, 275)
+  Current Error: 14.14px
+  Average Error: 16.09px
+  Error Std Dev: 8.54px
+  Tracking Duration: 5.5s
+2024-10-27 15:46:49,027 - INFO - __main__ - 
+Position Update:
+  Actual Position: (465, 255)
+  Detected Position: (455, 265)
+  Current Error: 14.14px
+  Average Error: 16.05px
+  Error Std Dev: 8.47px
+  Tracking Duration: 5.5s
+2024-10-27 15:46:49,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (475, 245)
+  Detected Position: (465, 255)
+  Current Error: 14.14px
+  Average Error: 16.02px
+  Error Std Dev: 8.39px
+  Tracking Duration: 5.6s
+2024-10-27 15:46:49,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (485, 235)
+  Detected Position: (475, 245)
+  Current Error: 14.14px
+  Average Error: 15.98px
+  Error Std Dev: 8.32px
+  Tracking Duration: 5.7s
+2024-10-27 15:46:49,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (495, 225)
+  Detected Position: (485, 235)
+  Current Error: 14.14px
+  Average Error: 15.95px
+  Error Std Dev: 8.24px
+  Tracking Duration: 5.7s
+2024-10-27 15:46:49,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (500, 220)
+  Detected Position: (490, 230)
+  Current Error: 14.14px
+  Average Error: 15.92px
+  Error Std Dev: 8.17px
+  Tracking Duration: 5.8s
+2024-10-27 15:46:49,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (510, 210)
+  Detected Position: (500, 220)
+  Current Error: 14.14px
+  Average Error: 15.88px
+  Error Std Dev: 8.10px
+  Tracking Duration: 5.8s
+2024-10-27 15:46:49,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (515, 205)
+  Detected Position: (505, 215)
+  Current Error: 14.14px
+  Average Error: 15.85px
+  Error Std Dev: 8.04px
+  Tracking Duration: 5.9s
+2024-10-27 15:46:49,427 - INFO - __main__ - 
+Position Update:
+  Actual Position: (525, 195)
+  Detected Position: (515, 205)
+  Current Error: 14.14px
+  Average Error: 15.83px
+  Error Std Dev: 7.97px
+  Tracking Duration: 5.9s
+2024-10-27 15:46:49,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (535, 185)
+  Detected Position: (525, 195)
+  Current Error: 14.14px
+  Average Error: 15.80px
+  Error Std Dev: 7.91px
+  Tracking Duration: 6.0s
+2024-10-27 15:46:49,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (540, 180)
+  Detected Position: (530, 190)
+  Current Error: 14.14px
+  Average Error: 15.77px
+  Error Std Dev: 7.85px
+  Tracking Duration: 6.0s
+2024-10-27 15:46:49,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (550, 170)
+  Detected Position: (541, 181)
+  Current Error: 14.21px
+  Average Error: 15.75px
+  Error Std Dev: 7.78px
+  Tracking Duration: 6.1s
+2024-10-27 15:46:49,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (560, 160)
+  Detected Position: (550, 170)
+  Current Error: 14.14px
+  Average Error: 15.72px
+  Error Std Dev: 7.73px
+  Tracking Duration: 6.2s
+2024-10-27 15:46:49,694 - INFO - __main__ - 
+Position Update:
+  Actual Position: (565, 155)
+  Detected Position: (555, 165)
+  Current Error: 14.14px
+  Average Error: 15.70px
+  Error Std Dev: 7.67px
+  Tracking Duration: 6.2s
+2024-10-27 15:46:49,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (575, 145)
+  Detected Position: (565, 155)
+  Current Error: 14.14px
+  Average Error: 15.67px
+  Error Std Dev: 7.61px
+  Tracking Duration: 6.3s
+2024-10-27 15:46:49,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (580, 140)
+  Detected Position: (571, 151)
+  Current Error: 14.21px
+  Average Error: 15.65px
+  Error Std Dev: 7.55px
+  Tracking Duration: 6.3s
+2024-10-27 15:46:49,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (590, 130)
+  Detected Position: (580, 140)
+  Current Error: 14.14px
+  Average Error: 15.63px
+  Error Std Dev: 7.50px
+  Tracking Duration: 6.4s
+2024-10-27 15:46:49,892 - INFO - __main__ - 
+Position Update:
+  Actual Position: (595, 125)
+  Detected Position: (585, 135)
+  Current Error: 14.14px
+  Average Error: 15.60px
+  Error Std Dev: 7.45px
+  Tracking Duration: 6.4s
+2024-10-27 15:46:49,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (605, 115)
+  Detected Position: (595, 125)
+  Current Error: 14.14px
+  Average Error: 15.58px
+  Error Std Dev: 7.39px
+  Tracking Duration: 6.5s
+2024-10-27 15:46:49,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (610, 110)
+  Detected Position: (601, 121)
+  Current Error: 14.21px
+  Average Error: 15.56px
+  Error Std Dev: 7.34px
+  Tracking Duration: 6.5s
+2024-10-27 15:46:50,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 105)
+  Detected Position: (605, 115)
+  Current Error: 14.14px
+  Average Error: 15.54px
+  Error Std Dev: 7.29px
+  Tracking Duration: 6.5s
+2024-10-27 15:46:50,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 95)
+  Detected Position: (615, 105)
+  Current Error: 10.00px
+  Average Error: 15.47px
+  Error Std Dev: 7.27px
+  Tracking Duration: 6.6s
+2024-10-27 15:46:50,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (605, 85)
+  Detected Position: (615, 95)
+  Current Error: 14.14px
+  Average Error: 15.45px
+  Error Std Dev: 7.22px
+  Tracking Duration: 6.7s
+2024-10-27 15:46:50,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (595, 75)
+  Detected Position: (605, 85)
+  Current Error: 14.14px
+  Average Error: 15.43px
+  Error Std Dev: 7.18px
+  Tracking Duration: 6.7s
+2024-10-27 15:46:50,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (590, 70)
+  Detected Position: (601, 80)
+  Current Error: 14.87px
+  Average Error: 15.42px
+  Error Std Dev: 7.13px
+  Tracking Duration: 6.8s
+2024-10-27 15:46:50,327 - INFO - __main__ - 
+Position Update:
+  Actual Position: (580, 60)
+  Detected Position: (590, 70)
+  Current Error: 14.14px
+  Average Error: 15.41px
+  Error Std Dev: 7.08px
+  Tracking Duration: 6.8s
+2024-10-27 15:46:50,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (575, 55)
+  Detected Position: (585, 65)
+  Current Error: 14.14px
+  Average Error: 15.39px
+  Error Std Dev: 7.04px
+  Tracking Duration: 6.9s
+2024-10-27 15:46:50,427 - INFO - __main__ - 
+Position Update:
+  Actual Position: (565, 45)
+  Detected Position: (575, 55)
+  Current Error: 14.14px
+  Average Error: 15.37px
+  Error Std Dev: 6.99px
+  Tracking Duration: 6.9s
+2024-10-27 15:46:50,494 - INFO - __main__ - 
+Position Update:
+  Actual Position: (555, 35)
+  Detected Position: (565, 45)
+  Current Error: 14.14px
+  Average Error: 15.36px
+  Error Std Dev: 6.95px
+  Tracking Duration: 7.0s
+2024-10-27 15:46:50,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (545, 25)
+  Detected Position: (555, 35)
+  Current Error: 14.14px
+  Average Error: 15.34px
+  Error Std Dev: 6.91px
+  Tracking Duration: 7.1s
+2024-10-27 15:46:50,627 - INFO - __main__ - 
+Position Update:
+  Actual Position: (535, 25)
+  Detected Position: (545, 25)
+  Current Error: 10.00px
+  Average Error: 15.28px
+  Error Std Dev: 6.89px
+  Tracking Duration: 7.1s
+2024-10-27 15:46:50,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (530, 30)
+  Detected Position: (541, 20)
+  Current Error: 14.87px
+  Average Error: 15.27px
+  Error Std Dev: 6.85px
+  Tracking Duration: 7.2s
+2024-10-27 15:46:50,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (520, 40)
+  Detected Position: (530, 31)
+  Current Error: 13.45px
+  Average Error: 15.25px
+  Error Std Dev: 6.81px
+  Tracking Duration: 7.2s
+2024-10-27 15:46:50,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (515, 45)
+  Detected Position: (525, 35)
+  Current Error: 14.14px
+  Average Error: 15.24px
+  Error Std Dev: 6.77px
+  Tracking Duration: 7.3s
+2024-10-27 15:46:50,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (505, 55)
+  Detected Position: (515, 45)
+  Current Error: 14.14px
+  Average Error: 15.22px
+  Error Std Dev: 6.73px
+  Tracking Duration: 7.3s
+2024-10-27 15:46:50,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (500, 60)
+  Detected Position: (511, 50)
+  Current Error: 14.87px
+  Average Error: 15.22px
+  Error Std Dev: 6.69px
+  Tracking Duration: 7.4s
+2024-10-27 15:46:50,892 - INFO - __main__ - 
+Position Update:
+  Actual Position: (495, 65)
+  Detected Position: (505, 55)
+  Current Error: 14.14px
+  Average Error: 15.21px
+  Error Std Dev: 6.66px
+  Tracking Duration: 7.4s
+2024-10-27 15:46:50,926 - INFO - __main__ - 
+Position Update:
+  Actual Position: (490, 70)
+  Detected Position: (500, 61)
+  Current Error: 13.45px
+  Average Error: 15.19px
+  Error Std Dev: 6.62px
+  Tracking Duration: 7.4s
+2024-10-27 15:46:50,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (485, 75)
+  Detected Position: (495, 65)
+  Current Error: 14.14px
+  Average Error: 15.18px
+  Error Std Dev: 6.58px
+  Tracking Duration: 7.5s
+2024-10-27 15:46:51,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (475, 85)
+  Detected Position: (485, 75)
+  Current Error: 14.14px
+  Average Error: 15.16px
+  Error Std Dev: 6.55px
+  Tracking Duration: 7.5s
+2024-10-27 15:46:51,094 - INFO - __main__ - 
+Position Update:
+  Actual Position: (465, 95)
+  Detected Position: (475, 85)
+  Current Error: 14.14px
+  Average Error: 15.15px
+  Error Std Dev: 6.51px
+  Tracking Duration: 7.6s
+2024-10-27 15:46:51,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (455, 105)
+  Detected Position: (465, 95)
+  Current Error: 14.14px
+  Average Error: 15.14px
+  Error Std Dev: 6.48px
+  Tracking Duration: 7.7s
+2024-10-27 15:46:51,227 - INFO - __main__ - 
+Position Update:
+  Actual Position: (445, 115)
+  Detected Position: (455, 105)
+  Current Error: 14.14px
+  Average Error: 15.13px
+  Error Std Dev: 6.44px
+  Tracking Duration: 7.7s
+2024-10-27 15:46:51,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (435, 125)
+  Detected Position: (445, 115)
+  Current Error: 14.14px
+  Average Error: 15.12px
+  Error Std Dev: 6.41px
+  Tracking Duration: 7.8s
+2024-10-27 15:46:51,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (430, 130)
+  Detected Position: (440, 119)
+  Current Error: 14.87px
+  Average Error: 15.12px
+  Error Std Dev: 6.38px
+  Tracking Duration: 7.8s
+2024-10-27 15:46:51,394 - INFO - __main__ - 
+Position Update:
+  Actual Position: (420, 140)
+  Detected Position: (430, 130)
+  Current Error: 14.14px
+  Average Error: 15.11px
+  Error Std Dev: 6.34px
+  Tracking Duration: 7.9s
+2024-10-27 15:46:51,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (410, 150)
+  Detected Position: (421, 140)
+  Current Error: 14.87px
+  Average Error: 15.11px
+  Error Std Dev: 6.31px
+  Tracking Duration: 8.0s
+2024-10-27 15:46:51,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (405, 155)
+  Detected Position: (415, 145)
+  Current Error: 14.14px
+  Average Error: 15.10px
+  Error Std Dev: 6.28px
+  Tracking Duration: 8.0s
+2024-10-27 15:46:51,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (400, 160)
+  Detected Position: (410, 151)
+  Current Error: 13.45px
+  Average Error: 15.08px
+  Error Std Dev: 6.25px
+  Tracking Duration: 8.0s
+2024-10-27 15:46:51,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (395, 165)
+  Detected Position: (405, 155)
+  Current Error: 14.14px
+  Average Error: 15.07px
+  Error Std Dev: 6.22px
+  Tracking Duration: 8.1s
+2024-10-27 15:46:51,626 - INFO - __main__ - 
+Position Update:
+  Actual Position: (385, 175)
+  Detected Position: (395, 165)
+  Current Error: 14.14px
+  Average Error: 14.50px
+  Error Std Dev: 2.72px
+  Tracking Duration: 8.1s
+2024-10-27 15:46:51,659 - INFO - __main__ - 
+Position Update:
+  Actual Position: (380, 180)
+  Detected Position: (391, 170)
+  Current Error: 14.87px
+  Average Error: 14.29px
+  Error Std Dev: 1.65px
+  Tracking Duration: 8.2s
+2024-10-27 15:46:51,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (375, 185)
+  Detected Position: (385, 175)
+  Current Error: 14.14px
+  Average Error: 14.16px
+  Error Std Dev: 0.97px
+  Tracking Duration: 8.2s
+2024-10-27 15:46:51,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (370, 190)
+  Detected Position: (380, 181)
+  Current Error: 13.45px
+  Average Error: 14.15px
+  Error Std Dev: 0.97px
+  Tracking Duration: 8.2s
+2024-10-27 15:46:51,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (365, 195)
+  Detected Position: (375, 185)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.3s
+2024-10-27 15:46:51,792 - INFO - __main__ - 
+Position Update:
+  Actual Position: (360, 200)
+  Detected Position: (370, 190)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.3s
+2024-10-27 15:46:51,825 - INFO - __main__ - 
+Position Update:
+  Actual Position: (355, 205)
+  Detected Position: (365, 195)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.3s
+2024-10-27 15:46:51,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (350, 210)
+  Detected Position: (361, 200)
+  Current Error: 14.87px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.4s
+2024-10-27 15:46:51,892 - INFO - __main__ - 
+Position Update:
+  Actual Position: (345, 215)
+  Detected Position: (355, 205)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.4s
+2024-10-27 15:46:51,926 - INFO - __main__ - 
+Position Update:
+  Actual Position: (340, 220)
+  Detected Position: (350, 211)
+  Current Error: 13.45px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.4s
+2024-10-27 15:46:51,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (335, 225)
+  Detected Position: (345, 215)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.5s
+2024-10-27 15:46:51,992 - INFO - __main__ - 
+Position Update:
+  Actual Position: (330, 230)
+  Detected Position: (340, 220)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.5s
+2024-10-27 15:46:52,060 - INFO - __main__ - 
+Position Update:
+  Actual Position: (320, 240)
+  Detected Position: (331, 230)
+  Current Error: 14.87px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.6s
+2024-10-27 15:46:52,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (310, 250)
+  Detected Position: (320, 241)
+  Current Error: 13.45px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.6s
+2024-10-27 15:46:52,159 - INFO - __main__ - 
+Position Update:
+  Actual Position: (305, 255)
+  Detected Position: (315, 245)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.7s
+2024-10-27 15:46:52,192 - INFO - __main__ - 
+Position Update:
+  Actual Position: (300, 260)
+  Detected Position: (310, 250)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.7s
+2024-10-27 15:46:52,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (295, 265)
+  Detected Position: (305, 255)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.7s
+2024-10-27 15:46:52,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (285, 275)
+  Detected Position: (295, 265)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.66px
+  Tracking Duration: 8.8s
+2024-10-27 15:46:52,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (275, 285)
+  Detected Position: (285, 275)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.65px
+  Tracking Duration: 8.9s
+2024-10-27 15:46:52,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (265, 295)
+  Detected Position: (275, 285)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.65px
+  Tracking Duration: 8.9s
+2024-10-27 15:46:52,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (260, 300)
+  Detected Position: (269, 290)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.66px
+  Tracking Duration: 9.0s
+2024-10-27 15:46:52,527 - INFO - __main__ - 
+Position Update:
+  Actual Position: (250, 310)
+  Detected Position: (260, 301)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.66px
+  Tracking Duration: 9.0s
+2024-10-27 15:46:52,594 - INFO - __main__ - 
+Position Update:
+  Actual Position: (240, 320)
+  Detected Position: (250, 310)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.66px
+  Tracking Duration: 9.1s
+2024-10-27 15:46:52,626 - INFO - __main__ - 
+Position Update:
+  Actual Position: (235, 325)
+  Detected Position: (245, 315)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.1s
+2024-10-27 15:46:52,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (225, 335)
+  Detected Position: (235, 325)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.2s
+2024-10-27 15:46:52,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (215, 345)
+  Detected Position: (225, 335)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.3s
+2024-10-27 15:46:52,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (205, 355)
+  Detected Position: (215, 345)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.3s
+2024-10-27 15:46:52,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (195, 365)
+  Detected Position: (205, 355)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.4s
+2024-10-27 15:46:52,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (185, 375)
+  Detected Position: (195, 365)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.5s
+2024-10-27 15:46:53,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (175, 385)
+  Detected Position: (185, 375)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.5s
+2024-10-27 15:46:53,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (165, 395)
+  Detected Position: (175, 385)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.6s
+2024-10-27 15:46:53,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (155, 405)
+  Detected Position: (165, 395)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.7s
+2024-10-27 15:46:53,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (150, 410)
+  Detected Position: (160, 400)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.7s
+2024-10-27 15:46:53,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (145, 415)
+  Detected Position: (155, 405)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.7s
+2024-10-27 15:46:53,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (140, 420)
+  Detected Position: (151, 410)
+  Current Error: 14.87px
+  Average Error: 14.07px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.8s
+2024-10-27 15:46:53,292 - INFO - __main__ - 
+Position Update:
+  Actual Position: (135, 425)
+  Detected Position: (145, 415)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.8s
+2024-10-27 15:46:53,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (130, 430)
+  Detected Position: (140, 421)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.8s
+2024-10-27 15:46:53,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (125, 435)
+  Detected Position: (135, 425)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.9s
+2024-10-27 15:46:53,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (115, 445)
+  Detected Position: (125, 435)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 9.9s
+2024-10-27 15:46:53,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (105, 455)
+  Detected Position: (115, 445)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.65px
+  Tracking Duration: 10.0s
+2024-10-27 15:46:53,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (95, 455)
+  Detected Position: (105, 455)
+  Current Error: 10.00px
+  Average Error: 14.02px
+  Error Std Dev: 0.77px
+  Tracking Duration: 10.1s
+2024-10-27 15:46:53,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (90, 450)
+  Detected Position: (100, 460)
+  Current Error: 14.14px
+  Average Error: 14.02px
+  Error Std Dev: 0.77px
+  Tracking Duration: 10.1s
+2024-10-27 15:46:53,659 - INFO - __main__ - 
+Position Update:
+  Actual Position: (80, 440)
+  Detected Position: (91, 451)
+  Current Error: 15.56px
+  Average Error: 14.04px
+  Error Std Dev: 0.78px
+  Tracking Duration: 10.2s
+2024-10-27 15:46:53,692 - INFO - __main__ - 
+Position Update:
+  Actual Position: (75, 435)
+  Detected Position: (85, 445)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.78px
+  Tracking Duration: 10.2s
+2024-10-27 15:46:53,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (65, 425)
+  Detected Position: (75, 435)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.78px
+  Tracking Duration: 10.3s
+2024-10-27 15:46:53,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (55, 415)
+  Detected Position: (65, 425)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.78px
+  Tracking Duration: 10.3s
+2024-10-27 15:46:53,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (45, 405)
+  Detected Position: (55, 415)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.78px
+  Tracking Duration: 10.4s
+2024-10-27 15:46:53,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (35, 395)
+  Detected Position: (45, 405)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.78px
+  Tracking Duration: 10.5s
+2024-10-27 15:46:53,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (30, 390)
+  Detected Position: (40, 400)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.78px
+  Tracking Duration: 10.5s
+2024-10-27 15:46:54,060 - INFO - __main__ - 
+Position Update:
+  Actual Position: (20, 380)
+  Detected Position: (31, 391)
+  Current Error: 15.56px
+  Average Error: 14.05px
+  Error Std Dev: 0.80px
+  Tracking Duration: 10.6s
+2024-10-27 15:46:54,127 - INFO - __main__ - 
+Position Update:
+  Actual Position: (30, 370)
+  Detected Position: (20, 380)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.80px
+  Tracking Duration: 10.6s
+2024-10-27 15:46:54,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (40, 360)
+  Detected Position: (31, 370)
+  Current Error: 13.45px
+  Average Error: 14.04px
+  Error Std Dev: 0.80px
+  Tracking Duration: 10.7s
+2024-10-27 15:46:54,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (45, 355)
+  Detected Position: (35, 365)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.80px
+  Tracking Duration: 10.7s
+2024-10-27 15:46:54,294 - INFO - __main__ - 
+Position Update:
+  Actual Position: (55, 345)
+  Detected Position: (45, 355)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.80px
+  Tracking Duration: 10.8s
+2024-10-27 15:46:54,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (65, 335)
+  Detected Position: (55, 345)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.80px
+  Tracking Duration: 10.9s
+2024-10-27 15:46:54,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (75, 325)
+  Detected Position: (65, 335)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.80px
+  Tracking Duration: 10.9s
+2024-10-27 15:46:54,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (80, 320)
+  Detected Position: (70, 331)
+  Current Error: 14.87px
+  Average Error: 14.05px
+  Error Std Dev: 0.80px
+  Tracking Duration: 11.0s
+2024-10-27 15:46:54,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (85, 315)
+  Detected Position: (75, 325)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.80px
+  Tracking Duration: 11.0s
+2024-10-27 15:46:54,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (95, 305)
+  Detected Position: (85, 315)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.80px
+  Tracking Duration: 11.1s
+2024-10-27 15:46:54,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (100, 300)
+  Detected Position: (91, 310)
+  Current Error: 13.45px
+  Average Error: 14.04px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.1s
+2024-10-27 15:46:54,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (110, 290)
+  Detected Position: (100, 301)
+  Current Error: 14.87px
+  Average Error: 14.05px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.2s
+2024-10-27 15:46:54,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (120, 280)
+  Detected Position: (110, 290)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.2s
+2024-10-27 15:46:54,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (130, 270)
+  Detected Position: (119, 280)
+  Current Error: 14.87px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.3s
+2024-10-27 15:46:54,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (135, 265)
+  Detected Position: (125, 275)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.3s
+2024-10-27 15:46:54,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (145, 255)
+  Detected Position: (135, 265)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.4s
+2024-10-27 15:46:54,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (155, 245)
+  Detected Position: (145, 255)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.5s
+2024-10-27 15:46:55,027 - INFO - __main__ - 
+Position Update:
+  Actual Position: (165, 235)
+  Detected Position: (155, 245)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.5s
+2024-10-27 15:46:55,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (175, 225)
+  Detected Position: (165, 235)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.6s
+2024-10-27 15:46:55,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (185, 215)
+  Detected Position: (175, 225)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.7s
+2024-10-27 15:46:55,227 - INFO - __main__ - 
+Position Update:
+  Actual Position: (195, 205)
+  Detected Position: (185, 215)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.7s
+2024-10-27 15:46:55,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (205, 195)
+  Detected Position: (195, 205)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.81px
+  Tracking Duration: 11.8s
+2024-10-27 15:46:55,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (215, 185)
+  Detected Position: (205, 195)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.70px
+  Tracking Duration: 11.9s
+2024-10-27 15:46:55,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (220, 180)
+  Detected Position: (209, 190)
+  Current Error: 14.87px
+  Average Error: 14.11px
+  Error Std Dev: 0.71px
+  Tracking Duration: 11.9s
+2024-10-27 15:46:55,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (225, 175)
+  Detected Position: (215, 185)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.71px
+  Tracking Duration: 11.9s
+2024-10-27 15:46:55,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (235, 165)
+  Detected Position: (225, 175)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.70px
+  Tracking Duration: 12.0s
+2024-10-27 15:46:55,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (245, 155)
+  Detected Position: (235, 165)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.70px
+  Tracking Duration: 12.1s
+2024-10-27 15:46:55,626 - INFO - __main__ - 
+Position Update:
+  Actual Position: (255, 145)
+  Detected Position: (245, 155)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.70px
+  Tracking Duration: 12.1s
+2024-10-27 15:46:55,659 - INFO - __main__ - 
+Position Update:
+  Actual Position: (260, 140)
+  Detected Position: (250, 149)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 12.2s
+2024-10-27 15:46:55,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (265, 135)
+  Detected Position: (255, 145)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 12.2s
+2024-10-27 15:46:55,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (270, 130)
+  Detected Position: (260, 140)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 12.2s
+2024-10-27 15:46:55,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (280, 120)
+  Detected Position: (271, 130)
+  Current Error: 13.45px
+  Average Error: 14.13px
+  Error Std Dev: 0.58px
+  Tracking Duration: 12.3s
+2024-10-27 15:46:55,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (285, 115)
+  Detected Position: (275, 125)
+  Current Error: 14.14px
+  Average Error: 14.12px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.3s
+2024-10-27 15:46:55,894 - INFO - __main__ - 
+Position Update:
+  Actual Position: (295, 105)
+  Detected Position: (285, 115)
+  Current Error: 14.14px
+  Average Error: 14.13px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.4s
+2024-10-27 15:46:55,961 - INFO - __main__ - 
+Position Update:
+  Actual Position: (305, 95)
+  Detected Position: (295, 105)
+  Current Error: 14.14px
+  Average Error: 14.13px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.5s
+2024-10-27 15:46:56,027 - INFO - __main__ - 
+Position Update:
+  Actual Position: (315, 85)
+  Detected Position: (305, 95)
+  Current Error: 14.14px
+  Average Error: 14.13px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.5s
+2024-10-27 15:46:56,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (325, 75)
+  Detected Position: (315, 85)
+  Current Error: 14.14px
+  Average Error: 14.12px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.6s
+2024-10-27 15:46:56,127 - INFO - __main__ - 
+Position Update:
+  Actual Position: (330, 70)
+  Detected Position: (320, 80)
+  Current Error: 14.14px
+  Average Error: 14.12px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.6s
+2024-10-27 15:46:56,194 - INFO - __main__ - 
+Position Update:
+  Actual Position: (340, 60)
+  Detected Position: (331, 70)
+  Current Error: 13.45px
+  Average Error: 14.12px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.7s
+2024-10-27 15:46:56,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (350, 50)
+  Detected Position: (340, 59)
+  Current Error: 13.45px
+  Average Error: 14.11px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.8s
+2024-10-27 15:46:56,327 - INFO - __main__ - 
+Position Update:
+  Actual Position: (360, 40)
+  Detected Position: (350, 50)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.8s
+2024-10-27 15:46:56,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (370, 30)
+  Detected Position: (359, 40)
+  Current Error: 14.87px
+  Average Error: 14.12px
+  Error Std Dev: 0.57px
+  Tracking Duration: 12.9s
+2024-10-27 15:46:56,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (380, 20)
+  Detected Position: (370, 29)
+  Current Error: 13.45px
+  Average Error: 14.11px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.0s
+2024-10-27 15:46:56,527 - INFO - __main__ - 
+Position Update:
+  Actual Position: (390, 30)
+  Detected Position: (380, 20)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.0s
+2024-10-27 15:46:56,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (395, 35)
+  Detected Position: (385, 25)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.1s
+2024-10-27 15:46:56,626 - INFO - __main__ - 
+Position Update:
+  Actual Position: (405, 45)
+  Detected Position: (395, 35)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.1s
+2024-10-27 15:46:56,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (415, 55)
+  Detected Position: (405, 45)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.2s
+2024-10-27 15:46:56,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (425, 65)
+  Detected Position: (415, 55)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.3s
+2024-10-27 15:46:56,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (430, 70)
+  Detected Position: (421, 61)
+  Current Error: 12.73px
+  Average Error: 14.08px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.3s
+2024-10-27 15:46:56,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (435, 75)
+  Detected Position: (425, 65)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.3s
+2024-10-27 15:46:56,894 - INFO - __main__ - 
+Position Update:
+  Actual Position: (445, 85)
+  Detected Position: (435, 75)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.4s
+2024-10-27 15:46:56,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (455, 95)
+  Detected Position: (445, 85)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.5s
+2024-10-27 15:46:57,027 - INFO - __main__ - 
+Position Update:
+  Actual Position: (465, 105)
+  Detected Position: (455, 95)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.5s
+2024-10-27 15:46:57,061 - INFO - __main__ - 
+Position Update:
+  Actual Position: (470, 110)
+  Detected Position: (460, 100)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.58px
+  Tracking Duration: 13.6s
+2024-10-27 15:46:57,125 - INFO - __main__ - 
+Position Update:
+  Actual Position: (480, 120)
+  Detected Position: (470, 110)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.6s
+2024-10-27 15:46:57,159 - INFO - __main__ - 
+Position Update:
+  Actual Position: (485, 125)
+  Detected Position: (475, 115)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.7s
+2024-10-27 15:46:57,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (495, 135)
+  Detected Position: (485, 125)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.7s
+2024-10-27 15:46:57,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (500, 140)
+  Detected Position: (490, 130)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.8s
+2024-10-27 15:46:57,292 - INFO - __main__ - 
+Position Update:
+  Actual Position: (505, 145)
+  Detected Position: (495, 135)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.8s
+2024-10-27 15:46:57,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (515, 155)
+  Detected Position: (505, 145)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.57px
+  Tracking Duration: 13.9s
+2024-10-27 15:46:57,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (525, 165)
+  Detected Position: (515, 155)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.56px
+  Tracking Duration: 13.9s
+2024-10-27 15:46:57,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (530, 170)
+  Detected Position: (520, 160)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.56px
+  Tracking Duration: 14.0s
+2024-10-27 15:46:57,527 - INFO - __main__ - 
+Position Update:
+  Actual Position: (540, 180)
+  Detected Position: (530, 170)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.56px
+  Tracking Duration: 14.0s
+2024-10-27 15:46:57,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (550, 190)
+  Detected Position: (539, 181)
+  Current Error: 14.21px
+  Average Error: 14.08px
+  Error Std Dev: 0.56px
+  Tracking Duration: 14.1s
+2024-10-27 15:46:57,626 - INFO - __main__ - 
+Position Update:
+  Actual Position: (555, 195)
+  Detected Position: (545, 185)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.1s
+2024-10-27 15:46:57,694 - INFO - __main__ - 
+Position Update:
+  Actual Position: (565, 205)
+  Detected Position: (555, 195)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.2s
+2024-10-27 15:46:57,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (575, 215)
+  Detected Position: (565, 205)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.3s
+2024-10-27 15:46:57,827 - INFO - __main__ - 
+Position Update:
+  Actual Position: (585, 225)
+  Detected Position: (575, 215)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.3s
+2024-10-27 15:46:57,894 - INFO - __main__ - 
+Position Update:
+  Actual Position: (595, 235)
+  Detected Position: (585, 225)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.4s
+2024-10-27 15:46:57,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (605, 245)
+  Detected Position: (595, 235)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.5s
+2024-10-27 15:46:58,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 255)
+  Detected Position: (605, 245)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.5s
+2024-10-27 15:46:58,059 - INFO - __main__ - 
+Position Update:
+  Actual Position: (620, 260)
+  Detected Position: (610, 250)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.55px
+  Tracking Duration: 14.6s
+2024-10-27 15:46:58,092 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 265)
+  Detected Position: (615, 255)
+  Current Error: 10.00px
+  Average Error: 14.06px
+  Error Std Dev: 0.68px
+  Tracking Duration: 14.6s
+2024-10-27 15:46:58,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (610, 270)
+  Detected Position: (620, 260)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.68px
+  Tracking Duration: 14.6s
+2024-10-27 15:46:58,194 - INFO - __main__ - 
+Position Update:
+  Actual Position: (600, 280)
+  Detected Position: (610, 269)
+  Current Error: 14.87px
+  Average Error: 14.07px
+  Error Std Dev: 0.69px
+  Tracking Duration: 14.7s
+2024-10-27 15:46:58,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (590, 290)
+  Detected Position: (601, 280)
+  Current Error: 14.87px
+  Average Error: 14.08px
+  Error Std Dev: 0.69px
+  Tracking Duration: 14.8s
+2024-10-27 15:46:58,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (580, 300)
+  Detected Position: (590, 290)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.69px
+  Tracking Duration: 14.8s
+2024-10-27 15:46:58,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (570, 310)
+  Detected Position: (580, 301)
+  Current Error: 13.45px
+  Average Error: 14.07px
+  Error Std Dev: 0.69px
+  Tracking Duration: 14.9s
+2024-10-27 15:46:58,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (565, 315)
+  Detected Position: (575, 305)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.69px
+  Tracking Duration: 14.9s
+2024-10-27 15:46:58,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (560, 320)
+  Detected Position: (569, 310)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 15.0s
+2024-10-27 15:46:58,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (550, 330)
+  Detected Position: (560, 320)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 15.0s
+2024-10-27 15:46:58,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (540, 340)
+  Detected Position: (550, 331)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 15.1s
+2024-10-27 15:46:58,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (530, 350)
+  Detected Position: (541, 340)
+  Current Error: 14.87px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 15.2s
+2024-10-27 15:46:58,727 - INFO - __main__ - 
+Position Update:
+  Actual Position: (520, 360)
+  Detected Position: (530, 350)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 15.2s
+2024-10-27 15:46:58,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (510, 370)
+  Detected Position: (520, 361)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.71px
+  Tracking Duration: 15.3s
+2024-10-27 15:46:58,860 - INFO - __main__ - 
+Position Update:
+  Actual Position: (500, 380)
+  Detected Position: (511, 370)
+  Current Error: 14.87px
+  Average Error: 14.06px
+  Error Std Dev: 0.71px
+  Tracking Duration: 15.4s
+2024-10-27 15:46:58,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (495, 385)
+  Detected Position: (505, 375)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.71px
+  Tracking Duration: 15.4s
+2024-10-27 15:46:58,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (485, 395)
+  Detected Position: (495, 385)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 15.5s
+2024-10-27 15:46:58,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (480, 400)
+  Detected Position: (490, 389)
+  Current Error: 14.87px
+  Average Error: 14.07px
+  Error Std Dev: 0.71px
+  Tracking Duration: 15.5s
+2024-10-27 15:46:59,027 - INFO - __main__ - 
+Position Update:
+  Actual Position: (475, 405)
+  Detected Position: (485, 395)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.71px
+  Tracking Duration: 15.5s
+2024-10-27 15:46:59,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (465, 415)
+  Detected Position: (475, 405)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.71px
+  Tracking Duration: 15.6s
+2024-10-27 15:46:59,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (455, 425)
+  Detected Position: (465, 415)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.58px
+  Tracking Duration: 15.7s
+2024-10-27 15:46:59,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (445, 435)
+  Detected Position: (455, 425)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.58px
+  Tracking Duration: 15.7s
+2024-10-27 15:46:59,294 - INFO - __main__ - 
+Position Update:
+  Actual Position: (435, 445)
+  Detected Position: (445, 435)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.56px
+  Tracking Duration: 15.8s
+2024-10-27 15:46:59,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (425, 455)
+  Detected Position: (435, 445)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.56px
+  Tracking Duration: 15.9s
+2024-10-27 15:46:59,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (415, 455)
+  Detected Position: (425, 455)
+  Current Error: 10.00px
+  Average Error: 14.06px
+  Error Std Dev: 0.69px
+  Tracking Duration: 15.9s
+2024-10-27 15:46:59,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (410, 450)
+  Detected Position: (419, 460)
+  Current Error: 13.45px
+  Average Error: 14.05px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.0s
+2024-10-27 15:46:59,492 - INFO - __main__ - 
+Position Update:
+  Actual Position: (405, 445)
+  Detected Position: (415, 455)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.0s
+2024-10-27 15:46:59,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (400, 440)
+  Detected Position: (410, 451)
+  Current Error: 14.87px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.0s
+2024-10-27 15:46:59,559 - INFO - __main__ - 
+Position Update:
+  Actual Position: (395, 435)
+  Detected Position: (405, 445)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.1s
+2024-10-27 15:46:59,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (390, 430)
+  Detected Position: (400, 440)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.68px
+  Tracking Duration: 16.1s
+2024-10-27 15:46:59,659 - INFO - __main__ - 
+Position Update:
+  Actual Position: (380, 420)
+  Detected Position: (391, 430)
+  Current Error: 14.87px
+  Average Error: 14.05px
+  Error Std Dev: 0.69px
+  Tracking Duration: 16.2s
+2024-10-27 15:46:59,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (370, 410)
+  Detected Position: (380, 421)
+  Current Error: 14.87px
+  Average Error: 14.06px
+  Error Std Dev: 0.69px
+  Tracking Duration: 16.2s
+2024-10-27 15:46:59,759 - INFO - __main__ - 
+Position Update:
+  Actual Position: (365, 405)
+  Detected Position: (375, 415)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.69px
+  Tracking Duration: 16.3s
+2024-10-27 15:46:59,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (355, 395)
+  Detected Position: (365, 405)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.69px
+  Tracking Duration: 16.3s
+2024-10-27 15:46:59,860 - INFO - __main__ - 
+Position Update:
+  Actual Position: (350, 390)
+  Detected Position: (361, 400)
+  Current Error: 14.87px
+  Average Error: 14.07px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.4s
+2024-10-27 15:46:59,927 - INFO - __main__ - 
+Position Update:
+  Actual Position: (340, 380)
+  Detected Position: (350, 391)
+  Current Error: 14.87px
+  Average Error: 14.08px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.4s
+2024-10-27 15:46:59,994 - INFO - __main__ - 
+Position Update:
+  Actual Position: (330, 370)
+  Detected Position: (340, 380)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.5s
+2024-10-27 15:47:00,060 - INFO - __main__ - 
+Position Update:
+  Actual Position: (320, 360)
+  Detected Position: (331, 370)
+  Current Error: 14.87px
+  Average Error: 14.08px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.6s
+2024-10-27 15:47:00,125 - INFO - __main__ - 
+Position Update:
+  Actual Position: (310, 350)
+  Detected Position: (320, 361)
+  Current Error: 14.87px
+  Average Error: 14.09px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.6s
+2024-10-27 15:47:00,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (300, 340)
+  Detected Position: (310, 350)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.7s
+2024-10-27 15:47:00,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (290, 330)
+  Detected Position: (301, 340)
+  Current Error: 14.87px
+  Average Error: 14.09px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.8s
+2024-10-27 15:47:00,327 - INFO - __main__ - 
+Position Update:
+  Actual Position: (280, 320)
+  Detected Position: (290, 331)
+  Current Error: 14.87px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 16.8s
+2024-10-27 15:47:00,394 - INFO - __main__ - 
+Position Update:
+  Actual Position: (270, 310)
+  Detected Position: (280, 320)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.70px
+  Tracking Duration: 16.9s
+2024-10-27 15:47:00,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (260, 300)
+  Detected Position: (271, 310)
+  Current Error: 14.87px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.0s
+2024-10-27 15:47:00,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (250, 290)
+  Detected Position: (260, 299)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.0s
+2024-10-27 15:47:00,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (240, 280)
+  Detected Position: (250, 290)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.1s
+2024-10-27 15:47:00,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (230, 270)
+  Detected Position: (241, 280)
+  Current Error: 14.87px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.2s
+2024-10-27 15:47:00,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (225, 265)
+  Detected Position: (235, 275)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.2s
+2024-10-27 15:47:00,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (215, 255)
+  Detected Position: (225, 265)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.3s
+2024-10-27 15:47:00,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (205, 245)
+  Detected Position: (215, 255)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.3s
+2024-10-27 15:47:00,860 - INFO - __main__ - 
+Position Update:
+  Actual Position: (200, 240)
+  Detected Position: (211, 250)
+  Current Error: 14.87px
+  Average Error: 14.11px
+  Error Std Dev: 0.72px
+  Tracking Duration: 17.4s
+2024-10-27 15:47:00,927 - INFO - __main__ - 
+Position Update:
+  Actual Position: (190, 230)
+  Detected Position: (200, 239)
+  Current Error: 13.45px
+  Average Error: 14.10px
+  Error Std Dev: 0.72px
+  Tracking Duration: 17.4s
+2024-10-27 15:47:00,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (185, 225)
+  Detected Position: (195, 235)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 17.5s
+2024-10-27 15:47:01,027 - INFO - __main__ - 
+Position Update:
+  Actual Position: (175, 215)
+  Detected Position: (185, 225)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 17.5s
+2024-10-27 15:47:01,094 - INFO - __main__ - 
+Position Update:
+  Actual Position: (165, 205)
+  Detected Position: (175, 215)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 17.6s
+2024-10-27 15:47:01,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (155, 195)
+  Detected Position: (165, 205)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 17.7s
+2024-10-27 15:47:01,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (145, 185)
+  Detected Position: (155, 195)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 17.7s
+2024-10-27 15:47:01,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (135, 175)
+  Detected Position: (145, 185)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.8s
+2024-10-27 15:47:01,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (125, 165)
+  Detected Position: (135, 175)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.9s
+2024-10-27 15:47:01,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (115, 155)
+  Detected Position: (125, 165)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.71px
+  Tracking Duration: 17.9s
+2024-10-27 15:47:01,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (105, 145)
+  Detected Position: (115, 155)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.71px
+  Tracking Duration: 18.0s
+2024-10-27 15:47:01,527 - INFO - __main__ - 
+Position Update:
+  Actual Position: (100, 140)
+  Detected Position: (110, 151)
+  Current Error: 14.87px
+  Average Error: 14.11px
+  Error Std Dev: 0.71px
+  Tracking Duration: 18.0s
+2024-10-27 15:47:01,594 - INFO - __main__ - 
+Position Update:
+  Actual Position: (90, 130)
+  Detected Position: (100, 140)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.71px
+  Tracking Duration: 18.1s
+2024-10-27 15:47:01,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (80, 120)
+  Detected Position: (91, 130)
+  Current Error: 14.87px
+  Average Error: 14.12px
+  Error Std Dev: 0.72px
+  Tracking Duration: 18.2s
+2024-10-27 15:47:01,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (70, 110)
+  Detected Position: (80, 121)
+  Current Error: 14.87px
+  Average Error: 14.13px
+  Error Std Dev: 0.72px
+  Tracking Duration: 18.2s
+2024-10-27 15:47:01,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (60, 100)
+  Detected Position: (70, 110)
+  Current Error: 14.14px
+  Average Error: 14.13px
+  Error Std Dev: 0.72px
+  Tracking Duration: 18.3s
+2024-10-27 15:47:01,860 - INFO - __main__ - 
+Position Update:
+  Actual Position: (50, 90)
+  Detected Position: (59, 100)
+  Current Error: 13.45px
+  Average Error: 14.12px
+  Error Std Dev: 0.72px
+  Tracking Duration: 18.4s
+2024-10-27 15:47:01,926 - INFO - __main__ - 
+Position Update:
+  Actual Position: (40, 80)
+  Detected Position: (50, 91)
+  Current Error: 14.87px
+  Average Error: 14.14px
+  Error Std Dev: 0.73px
+  Tracking Duration: 18.4s
+2024-10-27 15:47:01,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (30, 70)
+  Detected Position: (40, 80)
+  Current Error: 14.14px
+  Average Error: 14.14px
+  Error Std Dev: 0.72px
+  Tracking Duration: 18.5s
+2024-10-27 15:47:02,060 - INFO - __main__ - 
+Position Update:
+  Actual Position: (20, 60)
+  Detected Position: (31, 70)
+  Current Error: 14.87px
+  Average Error: 14.15px
+  Error Std Dev: 0.73px
+  Tracking Duration: 18.6s
+2024-10-27 15:47:02,127 - INFO - __main__ - 
+Position Update:
+  Actual Position: (30, 50)
+  Detected Position: (20, 59)
+  Current Error: 13.45px
+  Average Error: 14.14px
+  Error Std Dev: 0.73px
+  Tracking Duration: 18.6s
+2024-10-27 15:47:02,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (40, 40)
+  Detected Position: (31, 50)
+  Current Error: 13.45px
+  Average Error: 14.14px
+  Error Std Dev: 0.73px
+  Tracking Duration: 18.7s
+2024-10-27 15:47:02,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (50, 30)
+  Detected Position: (39, 40)
+  Current Error: 14.87px
+  Average Error: 14.14px
+  Error Std Dev: 0.73px
+  Tracking Duration: 18.8s
+2024-10-27 15:47:02,327 - INFO - __main__ - 
+Position Update:
+  Actual Position: (60, 20)
+  Detected Position: (50, 29)
+  Current Error: 13.45px
+  Average Error: 14.14px
+  Error Std Dev: 0.73px
+  Tracking Duration: 18.8s
+2024-10-27 15:47:02,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (65, 25)
+  Detected Position: (55, 25)
+  Current Error: 10.00px
+  Average Error: 14.10px
+  Error Std Dev: 0.84px
+  Tracking Duration: 18.9s
+2024-10-27 15:47:02,427 - INFO - __main__ - 
+Position Update:
+  Actual Position: (75, 35)
+  Detected Position: (65, 25)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.84px
+  Tracking Duration: 18.9s
+2024-10-27 15:47:02,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (85, 45)
+  Detected Position: (75, 35)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.0s
+2024-10-27 15:47:02,559 - INFO - __main__ - 
+Position Update:
+  Actual Position: (95, 55)
+  Detected Position: (85, 45)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.1s
+2024-10-27 15:47:02,626 - INFO - __main__ - 
+Position Update:
+  Actual Position: (105, 65)
+  Detected Position: (95, 55)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.1s
+2024-10-27 15:47:02,692 - INFO - __main__ - 
+Position Update:
+  Actual Position: (115, 75)
+  Detected Position: (105, 65)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.2s
+2024-10-27 15:47:02,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (120, 80)
+  Detected Position: (110, 70)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.2s
+2024-10-27 15:47:02,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (130, 90)
+  Detected Position: (121, 80)
+  Current Error: 13.45px
+  Average Error: 14.10px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.3s
+2024-10-27 15:47:02,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (140, 100)
+  Detected Position: (130, 91)
+  Current Error: 13.45px
+  Average Error: 14.10px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.4s
+2024-10-27 15:47:02,892 - INFO - __main__ - 
+Position Update:
+  Actual Position: (145, 105)
+  Detected Position: (135, 95)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.4s
+2024-10-27 15:47:02,926 - INFO - __main__ - 
+Position Update:
+  Actual Position: (150, 110)
+  Detected Position: (140, 100)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.83px
+  Tracking Duration: 19.4s
+2024-10-27 15:47:02,992 - INFO - __main__ - 
+Position Update:
+  Actual Position: (160, 120)
+  Detected Position: (151, 110)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.5s
+2024-10-27 15:47:03,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (165, 125)
+  Detected Position: (155, 115)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.5s
+2024-10-27 15:47:03,094 - INFO - __main__ - 
+Position Update:
+  Actual Position: (175, 135)
+  Detected Position: (165, 125)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.6s
+2024-10-27 15:47:03,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (185, 145)
+  Detected Position: (175, 135)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.7s
+2024-10-27 15:47:03,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (195, 155)
+  Detected Position: (185, 145)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.7s
+2024-10-27 15:47:03,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (205, 165)
+  Detected Position: (195, 155)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.8s
+2024-10-27 15:47:03,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (215, 175)
+  Detected Position: (205, 165)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.9s
+2024-10-27 15:47:03,427 - INFO - __main__ - 
+Position Update:
+  Actual Position: (225, 185)
+  Detected Position: (215, 175)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 19.9s
+2024-10-27 15:47:03,494 - INFO - __main__ - 
+Position Update:
+  Actual Position: (235, 195)
+  Detected Position: (225, 185)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.0s
+2024-10-27 15:47:03,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (245, 205)
+  Detected Position: (235, 195)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.1s
+2024-10-27 15:47:03,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (250, 210)
+  Detected Position: (241, 200)
+  Current Error: 13.45px
+  Average Error: 14.08px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.1s
+2024-10-27 15:47:03,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (260, 220)
+  Detected Position: (250, 211)
+  Current Error: 13.45px
+  Average Error: 14.07px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.2s
+2024-10-27 15:47:03,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (270, 230)
+  Detected Position: (260, 220)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.2s
+2024-10-27 15:47:03,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (275, 235)
+  Detected Position: (265, 225)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.3s
+2024-10-27 15:47:03,827 - INFO - __main__ - 
+Position Update:
+  Actual Position: (285, 245)
+  Detected Position: (275, 235)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.3s
+2024-10-27 15:47:03,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (295, 255)
+  Detected Position: (285, 245)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.84px
+  Tracking Duration: 20.4s
+2024-10-27 15:47:03,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (305, 265)
+  Detected Position: (295, 255)
+  Current Error: 14.14px
+  Average Error: 14.12px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.5s
+2024-10-27 15:47:04,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (315, 275)
+  Detected Position: (305, 265)
+  Current Error: 14.14px
+  Average Error: 14.12px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.5s
+2024-10-27 15:47:04,060 - INFO - __main__ - 
+Position Update:
+  Actual Position: (320, 280)
+  Detected Position: (310, 271)
+  Current Error: 13.45px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.6s
+2024-10-27 15:47:04,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (330, 290)
+  Detected Position: (320, 280)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.6s
+2024-10-27 15:47:04,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (340, 300)
+  Detected Position: (331, 290)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.7s
+2024-10-27 15:47:04,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (350, 310)
+  Detected Position: (340, 299)
+  Current Error: 14.87px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.8s
+2024-10-27 15:47:04,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (360, 320)
+  Detected Position: (350, 310)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.8s
+2024-10-27 15:47:04,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (370, 330)
+  Detected Position: (359, 320)
+  Current Error: 14.87px
+  Average Error: 14.12px
+  Error Std Dev: 0.73px
+  Tracking Duration: 20.9s
+2024-10-27 15:47:04,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (380, 340)
+  Detected Position: (370, 331)
+  Current Error: 13.45px
+  Average Error: 14.11px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.0s
+2024-10-27 15:47:04,527 - INFO - __main__ - 
+Position Update:
+  Actual Position: (390, 350)
+  Detected Position: (380, 340)
+  Current Error: 14.14px
+  Average Error: 14.12px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.0s
+2024-10-27 15:47:04,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (400, 360)
+  Detected Position: (391, 350)
+  Current Error: 13.45px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.1s
+2024-10-27 15:47:04,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (410, 370)
+  Detected Position: (400, 361)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.2s
+2024-10-27 15:47:04,727 - INFO - __main__ - 
+Position Update:
+  Actual Position: (420, 380)
+  Detected Position: (410, 370)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.2s
+2024-10-27 15:47:04,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (430, 390)
+  Detected Position: (421, 380)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.3s
+2024-10-27 15:47:04,860 - INFO - __main__ - 
+Position Update:
+  Actual Position: (440, 400)
+  Detected Position: (430, 391)
+  Current Error: 13.45px
+  Average Error: 14.08px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.4s
+2024-10-27 15:47:04,925 - INFO - __main__ - 
+Position Update:
+  Actual Position: (450, 410)
+  Detected Position: (440, 400)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.4s
+2024-10-27 15:47:04,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (455, 415)
+  Detected Position: (445, 405)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.5s
+2024-10-27 15:47:04,992 - INFO - __main__ - 
+Position Update:
+  Actual Position: (460, 420)
+  Detected Position: (451, 410)
+  Current Error: 13.45px
+  Average Error: 14.07px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.5s
+2024-10-27 15:47:05,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (465, 425)
+  Detected Position: (455, 415)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.5s
+2024-10-27 15:47:05,059 - INFO - __main__ - 
+Position Update:
+  Actual Position: (470, 430)
+  Detected Position: (460, 421)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.6s
+2024-10-27 15:47:05,092 - INFO - __main__ - 
+Position Update:
+  Actual Position: (475, 435)
+  Detected Position: (465, 425)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.6s
+2024-10-27 15:47:05,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (480, 440)
+  Detected Position: (470, 430)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.6s
+2024-10-27 15:47:05,159 - INFO - __main__ - 
+Position Update:
+  Actual Position: (485, 445)
+  Detected Position: (475, 435)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.7s
+2024-10-27 15:47:05,192 - INFO - __main__ - 
+Position Update:
+  Actual Position: (490, 450)
+  Detected Position: (481, 440)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.62px
+  Tracking Duration: 21.7s
+2024-10-27 15:47:05,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (500, 460)
+  Detected Position: (490, 451)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.62px
+  Tracking Duration: 21.8s
+2024-10-27 15:47:05,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (505, 455)
+  Detected Position: (495, 455)
+  Current Error: 10.00px
+  Average Error: 14.05px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.8s
+2024-10-27 15:47:05,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (510, 450)
+  Detected Position: (500, 460)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.8s
+2024-10-27 15:47:05,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (515, 445)
+  Detected Position: (505, 455)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.73px
+  Tracking Duration: 21.9s
+2024-10-27 15:47:05,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (520, 440)
+  Detected Position: (509, 451)
+  Current Error: 15.56px
+  Average Error: 14.06px
+  Error Std Dev: 0.75px
+  Tracking Duration: 21.9s
+2024-10-27 15:47:05,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (525, 435)
+  Detected Position: (515, 445)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.74px
+  Tracking Duration: 21.9s
+2024-10-27 15:47:05,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (530, 430)
+  Detected Position: (520, 440)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.74px
+  Tracking Duration: 22.0s
+2024-10-27 15:47:05,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (540, 420)
+  Detected Position: (530, 430)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.74px
+  Tracking Duration: 22.0s
+2024-10-27 15:47:05,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (545, 415)
+  Detected Position: (535, 425)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.74px
+  Tracking Duration: 22.1s
+2024-10-27 15:47:05,627 - INFO - __main__ - 
+Position Update:
+  Actual Position: (555, 405)
+  Detected Position: (545, 415)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.74px
+  Tracking Duration: 22.1s
+2024-10-27 15:47:05,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (565, 395)
+  Detected Position: (555, 405)
+  Current Error: 14.14px
+  Average Error: 14.03px
+  Error Std Dev: 0.73px
+  Tracking Duration: 22.2s
+2024-10-27 15:47:05,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (575, 385)
+  Detected Position: (565, 395)
+  Current Error: 14.14px
+  Average Error: 14.03px
+  Error Std Dev: 0.73px
+  Tracking Duration: 22.3s
+2024-10-27 15:47:05,827 - INFO - __main__ - 
+Position Update:
+  Actual Position: (585, 375)
+  Detected Position: (575, 385)
+  Current Error: 14.14px
+  Average Error: 14.02px
+  Error Std Dev: 0.73px
+  Tracking Duration: 22.3s
+2024-10-27 15:47:05,894 - INFO - __main__ - 
+Position Update:
+  Actual Position: (595, 365)
+  Detected Position: (585, 375)
+  Current Error: 14.14px
+  Average Error: 14.02px
+  Error Std Dev: 0.72px
+  Tracking Duration: 22.4s
+2024-10-27 15:47:05,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (605, 355)
+  Detected Position: (595, 365)
+  Current Error: 14.14px
+  Average Error: 14.02px
+  Error Std Dev: 0.72px
+  Tracking Duration: 22.5s
+2024-10-27 15:47:06,027 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 345)
+  Detected Position: (605, 355)
+  Current Error: 14.14px
+  Average Error: 14.01px
+  Error Std Dev: 0.72px
+  Tracking Duration: 22.5s
+2024-10-27 15:47:06,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 335)
+  Detected Position: (615, 345)
+  Current Error: 10.00px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 22.6s
+2024-10-27 15:47:06,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (605, 325)
+  Detected Position: (615, 335)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 22.7s
+2024-10-27 15:47:06,225 - INFO - __main__ - 
+Position Update:
+  Actual Position: (595, 315)
+  Detected Position: (605, 325)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.81px
+  Tracking Duration: 22.7s
+2024-10-27 15:47:06,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (590, 310)
+  Detected Position: (601, 320)
+  Current Error: 14.87px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 22.8s
+2024-10-27 15:47:06,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (580, 300)
+  Detected Position: (590, 310)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 22.8s
+2024-10-27 15:47:06,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (575, 295)
+  Detected Position: (585, 305)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 22.9s
+2024-10-27 15:47:06,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (565, 285)
+  Detected Position: (575, 295)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 22.9s
+2024-10-27 15:47:06,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (555, 275)
+  Detected Position: (565, 285)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.0s
+2024-10-27 15:47:06,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (550, 270)
+  Detected Position: (560, 280)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.0s
+2024-10-27 15:47:06,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (540, 260)
+  Detected Position: (550, 269)
+  Current Error: 13.45px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 23.1s
+2024-10-27 15:47:06,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (530, 250)
+  Detected Position: (541, 260)
+  Current Error: 14.87px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.2s
+2024-10-27 15:47:06,727 - INFO - __main__ - 
+Position Update:
+  Actual Position: (520, 240)
+  Detected Position: (530, 250)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.2s
+2024-10-27 15:47:06,759 - INFO - __main__ - 
+Position Update:
+  Actual Position: (515, 235)
+  Detected Position: (525, 245)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.3s
+2024-10-27 15:47:06,827 - INFO - __main__ - 
+Position Update:
+  Actual Position: (505, 225)
+  Detected Position: (515, 235)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.3s
+2024-10-27 15:47:06,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (495, 215)
+  Detected Position: (505, 225)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.4s
+2024-10-27 15:47:06,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (485, 205)
+  Detected Position: (495, 215)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.5s
+2024-10-27 15:47:06,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (480, 200)
+  Detected Position: (490, 211)
+  Current Error: 14.87px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.5s
+2024-10-27 15:47:07,059 - INFO - __main__ - 
+Position Update:
+  Actual Position: (470, 190)
+  Detected Position: (481, 200)
+  Current Error: 14.87px
+  Average Error: 13.97px
+  Error Std Dev: 0.82px
+  Tracking Duration: 23.6s
+2024-10-27 15:47:07,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (460, 180)
+  Detected Position: (470, 190)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.82px
+  Tracking Duration: 23.6s
+2024-10-27 15:47:07,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (455, 175)
+  Detected Position: (465, 185)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.82px
+  Tracking Duration: 23.7s
+2024-10-27 15:47:07,227 - INFO - __main__ - 
+Position Update:
+  Actual Position: (445, 165)
+  Detected Position: (455, 175)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.7s
+2024-10-27 15:47:07,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (435, 155)
+  Detected Position: (445, 165)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.8s
+2024-10-27 15:47:07,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (425, 145)
+  Detected Position: (435, 155)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.81px
+  Tracking Duration: 23.9s
+2024-10-27 15:47:07,427 - INFO - __main__ - 
+Position Update:
+  Actual Position: (415, 135)
+  Detected Position: (425, 145)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 23.9s
+2024-10-27 15:47:07,493 - INFO - __main__ - 
+Position Update:
+  Actual Position: (405, 125)
+  Detected Position: (415, 135)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 24.0s
+2024-10-27 15:47:07,560 - INFO - __main__ - 
+Position Update:
+  Actual Position: (395, 115)
+  Detected Position: (405, 125)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.80px
+  Tracking Duration: 24.1s
+2024-10-27 15:47:07,628 - INFO - __main__ - 
+Position Update:
+  Actual Position: (385, 105)
+  Detected Position: (395, 115)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 24.1s
+2024-10-27 15:47:07,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (375, 95)
+  Detected Position: (385, 105)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 24.2s
+2024-10-27 15:47:07,759 - INFO - __main__ - 
+Position Update:
+  Actual Position: (365, 85)
+  Detected Position: (375, 95)
+  Current Error: 14.14px
+  Average Error: 13.94px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.3s
+2024-10-27 15:47:07,827 - INFO - __main__ - 
+Position Update:
+  Actual Position: (355, 75)
+  Detected Position: (365, 85)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.3s
+2024-10-27 15:47:07,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (345, 65)
+  Detected Position: (355, 75)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.4s
+2024-10-27 15:47:07,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (335, 55)
+  Detected Position: (345, 65)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.78px
+  Tracking Duration: 24.5s
+2024-10-27 15:47:08,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (325, 45)
+  Detected Position: (335, 55)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.78px
+  Tracking Duration: 24.5s
+2024-10-27 15:47:08,060 - INFO - __main__ - 
+Position Update:
+  Actual Position: (320, 40)
+  Detected Position: (331, 50)
+  Current Error: 14.87px
+  Average Error: 14.01px
+  Error Std Dev: 0.68px
+  Tracking Duration: 24.6s
+2024-10-27 15:47:08,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (315, 35)
+  Detected Position: (325, 45)
+  Current Error: 14.14px
+  Average Error: 14.01px
+  Error Std Dev: 0.68px
+  Tracking Duration: 24.6s
+2024-10-27 15:47:08,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (310, 30)
+  Detected Position: (320, 40)
+  Current Error: 14.14px
+  Average Error: 14.01px
+  Error Std Dev: 0.68px
+  Tracking Duration: 24.6s
+2024-10-27 15:47:08,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (300, 20)
+  Detected Position: (310, 29)
+  Current Error: 13.45px
+  Average Error: 14.00px
+  Error Std Dev: 0.68px
+  Tracking Duration: 24.7s
+2024-10-27 15:47:08,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (295, 25)
+  Detected Position: (305, 25)
+  Current Error: 10.00px
+  Average Error: 13.96px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.7s
+2024-10-27 15:47:08,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (290, 30)
+  Detected Position: (299, 20)
+  Current Error: 13.45px
+  Average Error: 13.95px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.8s
+2024-10-27 15:47:08,292 - INFO - __main__ - 
+Position Update:
+  Actual Position: (285, 35)
+  Detected Position: (295, 25)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.8s
+2024-10-27 15:47:08,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (280, 40)
+  Detected Position: (290, 29)
+  Current Error: 14.87px
+  Average Error: 13.97px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.8s
+2024-10-27 15:47:08,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (270, 50)
+  Detected Position: (280, 40)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.79px
+  Tracking Duration: 24.9s
+2024-10-27 15:47:08,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (260, 60)
+  Detected Position: (269, 50)
+  Current Error: 13.45px
+  Average Error: 13.97px
+  Error Std Dev: 0.79px
+  Tracking Duration: 25.0s
+2024-10-27 15:47:08,527 - INFO - __main__ - 
+Position Update:
+  Actual Position: (250, 70)
+  Detected Position: (260, 61)
+  Current Error: 13.45px
+  Average Error: 13.96px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.0s
+2024-10-27 15:47:08,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (240, 80)
+  Detected Position: (250, 70)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.79px
+  Tracking Duration: 25.1s
+2024-10-27 15:47:08,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (230, 90)
+  Detected Position: (239, 80)
+  Current Error: 13.45px
+  Average Error: 13.96px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.2s
+2024-10-27 15:47:08,727 - INFO - __main__ - 
+Position Update:
+  Actual Position: (220, 100)
+  Detected Position: (230, 91)
+  Current Error: 13.45px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.2s
+2024-10-27 15:47:08,759 - INFO - __main__ - 
+Position Update:
+  Actual Position: (215, 105)
+  Detected Position: (225, 95)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.3s
+2024-10-27 15:47:08,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (210, 110)
+  Detected Position: (220, 100)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.3s
+2024-10-27 15:47:08,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (205, 115)
+  Detected Position: (215, 105)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.3s
+2024-10-27 15:47:08,860 - INFO - __main__ - 
+Position Update:
+  Actual Position: (200, 120)
+  Detected Position: (211, 110)
+  Current Error: 14.87px
+  Average Error: 13.96px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.4s
+2024-10-27 15:47:08,927 - INFO - __main__ - 
+Position Update:
+  Actual Position: (190, 130)
+  Detected Position: (200, 121)
+  Current Error: 13.45px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.4s
+2024-10-27 15:47:08,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (180, 140)
+  Detected Position: (190, 130)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.5s
+2024-10-27 15:47:09,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (175, 145)
+  Detected Position: (185, 135)
+  Current Error: 14.14px
+  Average Error: 13.95px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.5s
+2024-10-27 15:47:09,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (165, 155)
+  Detected Position: (175, 145)
+  Current Error: 14.14px
+  Average Error: 13.96px
+  Error Std Dev: 0.80px
+  Tracking Duration: 25.6s
+2024-10-27 15:47:09,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (160, 160)
+  Detected Position: (170, 149)
+  Current Error: 14.87px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 25.6s
+2024-10-27 15:47:09,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (155, 165)
+  Detected Position: (165, 155)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 25.7s
+2024-10-27 15:47:09,226 - INFO - __main__ - 
+Position Update:
+  Actual Position: (145, 175)
+  Detected Position: (155, 165)
+  Current Error: 14.14px
+  Average Error: 13.97px
+  Error Std Dev: 0.81px
+  Tracking Duration: 25.7s
+2024-10-27 15:47:09,258 - INFO - __main__ - 
+Position Update:
+  Actual Position: (140, 180)
+  Detected Position: (151, 170)
+  Current Error: 14.87px
+  Average Error: 13.98px
+  Error Std Dev: 0.81px
+  Tracking Duration: 25.8s
+2024-10-27 15:47:09,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (135, 185)
+  Detected Position: (145, 175)
+  Current Error: 14.14px
+  Average Error: 13.98px
+  Error Std Dev: 0.81px
+  Tracking Duration: 25.8s
+2024-10-27 15:47:09,360 - INFO - __main__ - 
+Position Update:
+  Actual Position: (125, 195)
+  Detected Position: (135, 185)
+  Current Error: 14.14px
+  Average Error: 13.98px
+  Error Std Dev: 0.81px
+  Tracking Duration: 25.9s
+2024-10-27 15:47:09,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (115, 205)
+  Detected Position: (125, 195)
+  Current Error: 14.14px
+  Average Error: 13.98px
+  Error Std Dev: 0.81px
+  Tracking Duration: 25.9s
+2024-10-27 15:47:09,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (110, 210)
+  Detected Position: (121, 200)
+  Current Error: 14.87px
+  Average Error: 13.99px
+  Error Std Dev: 0.81px
+  Tracking Duration: 26.0s
+2024-10-27 15:47:09,527 - INFO - __main__ - 
+Position Update:
+  Actual Position: (100, 220)
+  Detected Position: (110, 209)
+  Current Error: 14.87px
+  Average Error: 14.00px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.0s
+2024-10-27 15:47:09,594 - INFO - __main__ - 
+Position Update:
+  Actual Position: (90, 230)
+  Detected Position: (100, 220)
+  Current Error: 14.14px
+  Average Error: 14.01px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.1s
+2024-10-27 15:47:09,659 - INFO - __main__ - 
+Position Update:
+  Actual Position: (80, 240)
+  Detected Position: (91, 230)
+  Current Error: 14.87px
+  Average Error: 14.01px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.2s
+2024-10-27 15:47:09,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (75, 245)
+  Detected Position: (85, 235)
+  Current Error: 14.14px
+  Average Error: 14.01px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.2s
+2024-10-27 15:47:09,727 - INFO - __main__ - 
+Position Update:
+  Actual Position: (70, 250)
+  Detected Position: (80, 239)
+  Current Error: 14.87px
+  Average Error: 14.01px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.2s
+2024-10-27 15:47:09,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (65, 255)
+  Detected Position: (75, 245)
+  Current Error: 14.14px
+  Average Error: 14.02px
+  Error Std Dev: 0.81px
+  Tracking Duration: 26.3s
+2024-10-27 15:47:09,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (60, 260)
+  Detected Position: (70, 250)
+  Current Error: 14.14px
+  Average Error: 14.02px
+  Error Std Dev: 0.81px
+  Tracking Duration: 26.3s
+2024-10-27 15:47:09,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (50, 270)
+  Detected Position: (61, 260)
+  Current Error: 14.87px
+  Average Error: 14.03px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.4s
+2024-10-27 15:47:09,926 - INFO - __main__ - 
+Position Update:
+  Actual Position: (40, 280)
+  Detected Position: (50, 269)
+  Current Error: 14.87px
+  Average Error: 14.04px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.4s
+2024-10-27 15:47:09,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (35, 285)
+  Detected Position: (45, 275)
+  Current Error: 14.14px
+  Average Error: 14.04px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.5s
+2024-10-27 15:47:10,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (25, 295)
+  Detected Position: (35, 285)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.5s
+2024-10-27 15:47:10,059 - INFO - __main__ - 
+Position Update:
+  Actual Position: (20, 300)
+  Detected Position: (31, 290)
+  Current Error: 14.87px
+  Average Error: 14.07px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.6s
+2024-10-27 15:47:10,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (30, 310)
+  Detected Position: (20, 301)
+  Current Error: 13.45px
+  Average Error: 14.06px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.6s
+2024-10-27 15:47:10,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (40, 320)
+  Detected Position: (31, 310)
+  Current Error: 13.45px
+  Average Error: 14.05px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.7s
+2024-10-27 15:47:10,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (50, 330)
+  Detected Position: (40, 320)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.8s
+2024-10-27 15:47:10,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (60, 340)
+  Detected Position: (50, 331)
+  Current Error: 13.45px
+  Average Error: 14.05px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.8s
+2024-10-27 15:47:10,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (70, 350)
+  Detected Position: (61, 340)
+  Current Error: 13.45px
+  Average Error: 14.05px
+  Error Std Dev: 0.82px
+  Tracking Duration: 26.9s
+2024-10-27 15:47:10,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (80, 360)
+  Detected Position: (70, 350)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.82px
+  Tracking Duration: 27.0s
+2024-10-27 15:47:10,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (90, 370)
+  Detected Position: (80, 361)
+  Current Error: 13.45px
+  Average Error: 14.04px
+  Error Std Dev: 0.82px
+  Tracking Duration: 27.0s
+2024-10-27 15:47:10,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (100, 380)
+  Detected Position: (89, 370)
+  Current Error: 14.87px
+  Average Error: 14.05px
+  Error Std Dev: 0.83px
+  Tracking Duration: 27.1s
+2024-10-27 15:47:10,625 - INFO - __main__ - 
+Position Update:
+  Actual Position: (105, 385)
+  Detected Position: (95, 375)
+  Current Error: 14.14px
+  Average Error: 14.06px
+  Error Std Dev: 0.83px
+  Tracking Duration: 27.1s
+2024-10-27 15:47:10,659 - INFO - __main__ - 
+Position Update:
+  Actual Position: (110, 390)
+  Detected Position: (100, 380)
+  Current Error: 14.14px
+  Average Error: 14.07px
+  Error Std Dev: 0.82px
+  Tracking Duration: 27.2s
+2024-10-27 15:47:10,692 - INFO - __main__ - 
+Position Update:
+  Actual Position: (115, 395)
+  Detected Position: (105, 385)
+  Current Error: 14.14px
+  Average Error: 14.11px
+  Error Std Dev: 0.72px
+  Tracking Duration: 27.2s
+2024-10-27 15:47:10,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (120, 400)
+  Detected Position: (110, 391)
+  Current Error: 13.45px
+  Average Error: 14.10px
+  Error Std Dev: 0.72px
+  Tracking Duration: 27.2s
+2024-10-27 15:47:10,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (130, 410)
+  Detected Position: (121, 400)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 27.3s
+2024-10-27 15:47:10,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (135, 415)
+  Detected Position: (125, 405)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.71px
+  Tracking Duration: 27.3s
+2024-10-27 15:47:10,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (145, 425)
+  Detected Position: (135, 415)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.71px
+  Tracking Duration: 27.4s
+2024-10-27 15:47:10,959 - INFO - __main__ - 
+Position Update:
+  Actual Position: (155, 435)
+  Detected Position: (145, 425)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.71px
+  Tracking Duration: 27.5s
+2024-10-27 15:47:10,992 - INFO - __main__ - 
+Position Update:
+  Actual Position: (160, 440)
+  Detected Position: (149, 430)
+  Current Error: 14.87px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 27.5s
+2024-10-27 15:47:11,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (165, 445)
+  Detected Position: (155, 435)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 27.5s
+2024-10-27 15:47:11,059 - INFO - __main__ - 
+Position Update:
+  Actual Position: (170, 450)
+  Detected Position: (160, 440)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 27.6s
+2024-10-27 15:47:11,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (175, 455)
+  Detected Position: (165, 445)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.71px
+  Tracking Duration: 27.6s
+2024-10-27 15:47:11,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (185, 455)
+  Detected Position: (175, 455)
+  Current Error: 10.00px
+  Average Error: 14.04px
+  Error Std Dev: 0.82px
+  Tracking Duration: 27.7s
+2024-10-27 15:47:11,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (190, 450)
+  Detected Position: (179, 460)
+  Current Error: 14.87px
+  Average Error: 14.05px
+  Error Std Dev: 0.82px
+  Tracking Duration: 27.7s
+2024-10-27 15:47:11,260 - INFO - __main__ - 
+Position Update:
+  Actual Position: (200, 440)
+  Detected Position: (190, 449)
+  Current Error: 13.45px
+  Average Error: 14.05px
+  Error Std Dev: 0.83px
+  Tracking Duration: 27.8s
+2024-10-27 15:47:11,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (205, 435)
+  Detected Position: (195, 445)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.83px
+  Tracking Duration: 27.8s
+2024-10-27 15:47:11,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (210, 430)
+  Detected Position: (200, 440)
+  Current Error: 14.14px
+  Average Error: 14.05px
+  Error Std Dev: 0.83px
+  Tracking Duration: 27.8s
+2024-10-27 15:47:11,394 - INFO - __main__ - 
+Position Update:
+  Actual Position: (220, 420)
+  Detected Position: (209, 430)
+  Current Error: 14.87px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 27.9s
+2024-10-27 15:47:11,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (230, 410)
+  Detected Position: (220, 421)
+  Current Error: 14.87px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.0s
+2024-10-27 15:47:11,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (240, 400)
+  Detected Position: (230, 410)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.0s
+2024-10-27 15:47:11,559 - INFO - __main__ - 
+Position Update:
+  Actual Position: (245, 395)
+  Detected Position: (235, 405)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.1s
+2024-10-27 15:47:11,593 - INFO - __main__ - 
+Position Update:
+  Actual Position: (250, 390)
+  Detected Position: (241, 400)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.1s
+2024-10-27 15:47:11,626 - INFO - __main__ - 
+Position Update:
+  Actual Position: (255, 385)
+  Detected Position: (245, 395)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.1s
+2024-10-27 15:47:11,660 - INFO - __main__ - 
+Position Update:
+  Actual Position: (260, 380)
+  Detected Position: (250, 391)
+  Current Error: 14.87px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.2s
+2024-10-27 15:47:11,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (265, 375)
+  Detected Position: (255, 385)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.2s
+2024-10-27 15:47:11,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (270, 370)
+  Detected Position: (260, 380)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.2s
+2024-10-27 15:47:11,760 - INFO - __main__ - 
+Position Update:
+  Actual Position: (275, 365)
+  Detected Position: (265, 375)
+  Current Error: 14.14px
+  Average Error: 14.10px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.3s
+2024-10-27 15:47:11,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (280, 360)
+  Detected Position: (271, 370)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.3s
+2024-10-27 15:47:11,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (285, 355)
+  Detected Position: (275, 365)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.3s
+2024-10-27 15:47:11,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (290, 350)
+  Detected Position: (280, 361)
+  Current Error: 14.87px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.4s
+2024-10-27 15:47:11,893 - INFO - __main__ - 
+Position Update:
+  Actual Position: (295, 345)
+  Detected Position: (285, 355)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.4s
+2024-10-27 15:47:11,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (305, 335)
+  Detected Position: (295, 345)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.5s
+2024-10-27 15:47:12,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (315, 325)
+  Detected Position: (305, 335)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.73px
+  Tracking Duration: 28.5s
+2024-10-27 15:47:12,094 - INFO - __main__ - 
+Position Update:
+  Actual Position: (325, 315)
+  Detected Position: (315, 325)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.6s
+2024-10-27 15:47:12,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (335, 305)
+  Detected Position: (325, 315)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.7s
+2024-10-27 15:47:12,227 - INFO - __main__ - 
+Position Update:
+  Actual Position: (345, 295)
+  Detected Position: (335, 305)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.7s
+2024-10-27 15:47:12,293 - INFO - __main__ - 
+Position Update:
+  Actual Position: (355, 285)
+  Detected Position: (345, 295)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.8s
+2024-10-27 15:47:12,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (365, 275)
+  Detected Position: (355, 285)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.9s
+2024-10-27 15:47:12,426 - INFO - __main__ - 
+Position Update:
+  Actual Position: (375, 265)
+  Detected Position: (365, 275)
+  Current Error: 14.14px
+  Average Error: 14.08px
+  Error Std Dev: 0.72px
+  Tracking Duration: 28.9s
+2024-10-27 15:47:12,459 - INFO - __main__ - 
+Position Update:
+  Actual Position: (380, 260)
+  Detected Position: (370, 271)
+  Current Error: 14.87px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 29.0s
+2024-10-27 15:47:12,495 - INFO - __main__ - 
+Position Update:
+  Actual Position: (385, 255)
+  Detected Position: (375, 265)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 0.72px
+  Tracking Duration: 29.0s
+2024-10-27 15:47:12,557 - INFO - __main__ - 
+Position Update:
+  Actual Position: (395, 245)
+  Detected Position: (380, 260)
+  Current Error: 21.21px
+  Average Error: 14.16px
+  Error Std Dev: 1.01px
+  Tracking Duration: 29.1s
+2024-10-27 15:47:12,594 - INFO - __main__ - 
+Position Update:
+  Actual Position: (400, 240)
+  Detected Position: (391, 250)
+  Current Error: 13.45px
+  Average Error: 14.15px
+  Error Std Dev: 1.02px
+  Tracking Duration: 29.1s
+2024-10-27 15:47:12,659 - INFO - __main__ - 
+Position Update:
+  Actual Position: (410, 230)
+  Detected Position: (400, 241)
+  Current Error: 14.87px
+  Average Error: 14.16px
+  Error Std Dev: 1.02px
+  Tracking Duration: 29.2s
+2024-10-27 15:47:12,726 - INFO - __main__ - 
+Position Update:
+  Actual Position: (420, 220)
+  Detected Position: (410, 230)
+  Current Error: 14.14px
+  Average Error: 14.16px
+  Error Std Dev: 1.02px
+  Tracking Duration: 29.2s
+2024-10-27 15:47:12,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (430, 210)
+  Detected Position: (421, 220)
+  Current Error: 13.45px
+  Average Error: 14.15px
+  Error Std Dev: 1.02px
+  Tracking Duration: 29.3s
+2024-10-27 15:47:12,859 - INFO - __main__ - 
+Position Update:
+  Actual Position: (440, 200)
+  Detected Position: (430, 211)
+  Current Error: 14.87px
+  Average Error: 14.16px
+  Error Std Dev: 1.02px
+  Tracking Duration: 29.4s
+2024-10-27 15:47:12,892 - INFO - __main__ - 
+Position Update:
+  Actual Position: (445, 195)
+  Detected Position: (435, 205)
+  Current Error: 14.14px
+  Average Error: 14.16px
+  Error Std Dev: 1.02px
+  Tracking Duration: 29.4s
+2024-10-27 15:47:12,926 - INFO - __main__ - 
+Position Update:
+  Actual Position: (450, 190)
+  Detected Position: (440, 200)
+  Current Error: 14.14px
+  Average Error: 14.16px
+  Error Std Dev: 1.02px
+  Tracking Duration: 29.4s
+2024-10-27 15:47:12,993 - INFO - __main__ - 
+Position Update:
+  Actual Position: (460, 180)
+  Detected Position: (451, 190)
+  Current Error: 13.45px
+  Average Error: 14.15px
+  Error Std Dev: 1.03px
+  Tracking Duration: 29.5s
+2024-10-27 15:47:13,060 - INFO - __main__ - 
+Position Update:
+  Actual Position: (470, 170)
+  Detected Position: (460, 181)
+  Current Error: 14.87px
+  Average Error: 14.15px
+  Error Std Dev: 1.03px
+  Tracking Duration: 29.6s
+2024-10-27 15:47:13,126 - INFO - __main__ - 
+Position Update:
+  Actual Position: (480, 160)
+  Detected Position: (470, 170)
+  Current Error: 14.14px
+  Average Error: 14.15px
+  Error Std Dev: 1.03px
+  Tracking Duration: 29.6s
+2024-10-27 15:47:13,193 - INFO - __main__ - 
+Position Update:
+  Actual Position: (490, 150)
+  Detected Position: (481, 160)
+  Current Error: 13.45px
+  Average Error: 14.14px
+  Error Std Dev: 1.03px
+  Tracking Duration: 29.7s
+2024-10-27 15:47:13,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (500, 140)
+  Detected Position: (490, 151)
+  Current Error: 14.87px
+  Average Error: 14.16px
+  Error Std Dev: 1.03px
+  Tracking Duration: 29.8s
+2024-10-27 15:47:13,326 - INFO - __main__ - 
+Position Update:
+  Actual Position: (510, 130)
+  Detected Position: (500, 140)
+  Current Error: 14.14px
+  Average Error: 14.20px
+  Error Std Dev: 0.94px
+  Tracking Duration: 29.8s
+2024-10-27 15:47:13,359 - INFO - __main__ - 
+Position Update:
+  Actual Position: (515, 125)
+  Detected Position: (505, 135)
+  Current Error: 14.14px
+  Average Error: 14.21px
+  Error Std Dev: 0.94px
+  Tracking Duration: 29.9s
+2024-10-27 15:47:13,393 - INFO - __main__ - 
+Position Update:
+  Actual Position: (520, 120)
+  Detected Position: (509, 130)
+  Current Error: 14.87px
+  Average Error: 14.21px
+  Error Std Dev: 0.94px
+  Tracking Duration: 29.9s
+2024-10-27 15:47:13,460 - INFO - __main__ - 
+Position Update:
+  Actual Position: (530, 110)
+  Detected Position: (520, 121)
+  Current Error: 14.87px
+  Average Error: 14.21px
+  Error Std Dev: 0.94px
+  Tracking Duration: 30.0s
+2024-10-27 15:47:13,526 - INFO - __main__ - 
+Position Update:
+  Actual Position: (540, 100)
+  Detected Position: (530, 110)
+  Current Error: 14.14px
+  Average Error: 14.21px
+  Error Std Dev: 0.94px
+  Tracking Duration: 30.0s
+2024-10-27 15:47:13,559 - INFO - __main__ - 
+Position Update:
+  Actual Position: (545, 95)
+  Detected Position: (535, 105)
+  Current Error: 14.14px
+  Average Error: 14.22px
+  Error Std Dev: 0.94px
+  Tracking Duration: 30.1s
+2024-10-27 15:47:13,627 - INFO - __main__ - 
+Position Update:
+  Actual Position: (555, 85)
+  Detected Position: (545, 95)
+  Current Error: 14.14px
+  Average Error: 14.23px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.1s
+2024-10-27 15:47:13,693 - INFO - __main__ - 
+Position Update:
+  Actual Position: (565, 75)
+  Detected Position: (555, 85)
+  Current Error: 14.14px
+  Average Error: 14.23px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.2s
+2024-10-27 15:47:13,759 - INFO - __main__ - 
+Position Update:
+  Actual Position: (575, 65)
+  Detected Position: (565, 75)
+  Current Error: 14.14px
+  Average Error: 14.24px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.3s
+2024-10-27 15:47:13,793 - INFO - __main__ - 
+Position Update:
+  Actual Position: (580, 60)
+  Detected Position: (571, 70)
+  Current Error: 13.45px
+  Average Error: 14.24px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.3s
+2024-10-27 15:47:13,826 - INFO - __main__ - 
+Position Update:
+  Actual Position: (585, 55)
+  Detected Position: (575, 65)
+  Current Error: 14.14px
+  Average Error: 14.24px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.3s
+2024-10-27 15:47:13,894 - INFO - __main__ - 
+Position Update:
+  Actual Position: (595, 45)
+  Detected Position: (585, 55)
+  Current Error: 14.14px
+  Average Error: 14.24px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.4s
+2024-10-27 15:47:13,960 - INFO - __main__ - 
+Position Update:
+  Actual Position: (605, 35)
+  Detected Position: (595, 45)
+  Current Error: 14.14px
+  Average Error: 14.24px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.5s
+2024-10-27 15:47:14,026 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 25)
+  Detected Position: (605, 35)
+  Current Error: 14.14px
+  Average Error: 14.23px
+  Error Std Dev: 0.93px
+  Tracking Duration: 30.5s
+2024-10-27 15:47:14,093 - INFO - __main__ - 
+Position Update:
+  Actual Position: (615, 25)
+  Detected Position: (615, 25)
+  Current Error: 0.00px
+  Average Error: 14.09px
+  Error Std Dev: 1.69px
+  Tracking Duration: 30.6s
+2024-10-27 15:47:14,160 - INFO - __main__ - 
+Position Update:
+  Actual Position: (605, 35)
+  Detected Position: (615, 25)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 1.69px
+  Tracking Duration: 30.7s
+2024-10-27 15:47:14,227 - INFO - __main__ - 
+Position Update:
+  Actual Position: (595, 45)
+  Detected Position: (605, 35)
+  Current Error: 14.14px
+  Average Error: 14.09px
+  Error Std Dev: 1.69px
+  Tracking Duration: 30.7s
+2024-10-27 15:47:14,259 - INFO - __main__ - 
+Position Update:
+  Actual Position: (590, 50)
+  Detected Position: (599, 40)
+  Current Error: 13.45px
+  Average Error: 14.09px
+  Error Std Dev: 1.69px
+  Tracking Duration: 30.8s
+2024-10-27 15:47:16,753 - INFO - __main__ - Shutting down after 33.3s uptime
+2024-10-27 15:47:16,754 - INFO - __main__ - Connection state changed to: closed
+2024-10-27 15:47:16,756 - INFO - __main__ - Stopped by user

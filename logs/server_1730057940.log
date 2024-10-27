@@ -1,0 +1,16 @@
+2024-10-27 15:39:00,750 - INFO - __main__ - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False}
+2024-10-27 15:39:00,769 - INFO - __main__ - Starting server...
+2024-10-27 15:39:06,277 - ERROR - __main__ - Server error: 'TcpSocketSignaling' object has no attribute 'local_addr'
+2024-10-27 15:39:06,277 - INFO - __main__ - Shutting down after 5.5s uptime
+2024-10-27 15:39:06,277 - INFO - __main__ - Connection state changed to: closed
+2024-10-27 15:39:06,279 - ERROR - __main__ - Unexpected error: 'TcpSocketSignaling' object has no attribute 'local_addr'
+Traceback (most recent call last):
+  File "/Users/shahram/Desktop/Nimble-Challenge/server.py", line 431, in main
+    asyncio.run(server.start())
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/Users/shahram/Desktop/Nimble-Challenge/server.py", line 367, in start
+    logger.info(f"Server ready - listening on {self._signaling.local_addr}")
+AttributeError: 'TcpSocketSignaling' object has no attribute 'local_addr'

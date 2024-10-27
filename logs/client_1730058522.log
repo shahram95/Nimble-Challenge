@@ -1,0 +1,23 @@
+2024-10-27 15:48:42,061 - INFO - client - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-27 15:48:42,083 - INFO - client - Connecting to server at 127.0.0.1:8080
+2024-10-27 15:48:42,085 - INFO - client - Frame processor started
+2024-10-27 15:48:42,099 - INFO - client - Video track received and processing started
+2024-10-27 15:48:42,131 - INFO - client - Sent answer to server
+2024-10-27 15:48:42,131 - INFO - client - Connection state changed to: connecting
+2024-10-27 15:48:42,160 - INFO - client - Connection state changed to: connected
+2024-10-27 15:48:42,162 - INFO - client - Data channel 'coordinates' established
+2024-10-27 15:48:45,512 - INFO - client - Received 100 frames in 3.4s (29.3 FPS)
+2024-10-27 15:48:47,991 - INFO - client - Sent 100 position updates in 5.9s (16.9 updates/s)
+2024-10-27 15:48:48,845 - INFO - client - Received 200 frames in 6.7s (29.6 FPS)
+2024-10-27 15:48:52,179 - INFO - client - Received 300 frames in 10.1s (29.8 FPS)
+2024-10-27 15:48:53,524 - INFO - client - Sent 200 position updates in 11.4s (17.5 updates/s)
+2024-10-27 15:48:55,513 - INFO - client - Received 400 frames in 13.4s (29.8 FPS)
+2024-10-27 15:48:58,846 - INFO - client - Received 500 frames in 16.7s (29.9 FPS)
+2024-10-27 15:48:59,157 - INFO - client - Sent 300 position updates in 17.1s (17.6 updates/s)
+2024-10-27 15:49:02,179 - INFO - client - Received 600 frames in 20.1s (29.9 FPS)
+2024-10-27 15:49:04,457 - INFO - client - Sent 400 position updates in 22.4s (17.9 updates/s)
+2024-10-27 15:49:05,513 - INFO - client - Received 700 frames in 23.4s (29.9 FPS)
+2024-10-27 15:49:08,846 - INFO - client - Received 800 frames in 26.7s (29.9 FPS)
+2024-10-27 15:49:09,724 - INFO - client - Sent 500 position updates in 27.6s (18.1 updates/s)
+2024-10-27 15:49:09,916 - INFO - client - Stopped by user
+2024-10-27 15:49:09,919 - INFO - client - Application terminated

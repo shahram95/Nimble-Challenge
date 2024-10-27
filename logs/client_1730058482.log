@@ -1,0 +1,13 @@
+2024-10-27 15:48:02,449 - INFO - client - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-27 15:48:02,475 - INFO - client - Connecting to server at 127.0.0.1:8080
+2024-10-27 15:48:02,477 - INFO - client - Frame processor started
+2024-10-27 15:48:02,491 - INFO - client - Video track received and processing started
+2024-10-27 15:48:02,523 - INFO - client - Sent answer to server
+2024-10-27 15:48:02,524 - INFO - client - Connection state changed to: connecting
+2024-10-27 15:48:02,552 - INFO - client - Connection state changed to: connected
+2024-10-27 15:48:02,554 - INFO - client - Data channel 'coordinates' established
+2024-10-27 15:48:05,905 - INFO - client - Received 100 frames in 3.4s (29.3 FPS)
+2024-10-27 15:48:07,882 - INFO - client - Sent 100 position updates in 5.4s (18.5 updates/s)
+2024-10-27 15:48:09,237 - INFO - client - Received 200 frames in 6.7s (29.6 FPS)
+2024-10-27 15:48:12,144 - INFO - client - Stopped by user
+2024-10-27 15:48:12,147 - INFO - client - Application terminated

@@ -1,0 +1,21 @@
+2024-10-27 15:56:34,436 - INFO - client - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-27 15:56:34,465 - INFO - client - Connecting to server at 127.0.0.1:8080
+2024-10-27 15:56:34,468 - INFO - client - Frame processor started
+2024-10-27 15:56:34,482 - INFO - client - Video track received and processing started
+2024-10-27 15:56:34,514 - INFO - client - Sent answer to server
+2024-10-27 15:56:34,551 - INFO - client - Data channel 'coordinates' established
+2024-10-27 15:56:34,800 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 15:56:34,821 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 15:56:34,837 - WARNING - client - Frame queue full, skipping frame
+2024-10-27 15:56:39,500 - INFO - client - Received 148 frames in 5.0s (29.5 FPS)
+2024-10-27 15:56:39,546 - INFO - client - Sent 96 position updates in 5.1s (18.9 updates/s)
+2024-10-27 15:56:44,503 - INFO - client - Received 298 frames in 10.0s (29.7 FPS)
+2024-10-27 15:56:44,579 - INFO - client - Sent 194 position updates in 10.1s (19.2 updates/s)
+2024-10-27 15:56:49,534 - INFO - client - Received 449 frames in 15.1s (29.8 FPS)
+2024-10-27 15:56:49,612 - INFO - client - Sent 292 position updates in 15.1s (19.3 updates/s)
+2024-10-27 15:56:54,568 - INFO - client - Received 600 frames in 20.1s (29.9 FPS)
+2024-10-27 15:56:54,646 - INFO - client - Sent 380 position updates in 20.2s (18.8 updates/s)
+2024-10-27 15:56:59,601 - INFO - client - Received 751 frames in 25.1s (29.9 FPS)
+2024-10-27 15:56:59,679 - INFO - client - Sent 478 position updates in 25.2s (19.0 updates/s)
+2024-10-27 15:57:03,585 - INFO - client - Stopped by user
+2024-10-27 15:57:03,589 - INFO - client - Application terminated

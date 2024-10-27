@@ -1,0 +1,33 @@
+2024-10-27 15:22:35,051 [INFO] __main__: Starting server on 127.0.0.1:8080
+2024-10-27 15:22:37,920 [INFO] __main__: Server is ready
+2024-10-27 15:22:37,956 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:4b2:2b81:950e:6253', 54774) -> ('2601:547:1900:9810:4b2:2b81:950e:6253', 50785)) State.FROZEN -> State.WAITING
+2024-10-27 15:22:37,956 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:312c:1841:6d69:d43b', 55612) -> ('2601:547:1900:9810:4b2:2b81:950e:6253', 50785)) State.FROZEN -> State.WAITING
+2024-10-27 15:22:37,956 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810::36c3', 52449) -> ('2601:547:1900:9810:4b2:2b81:950e:6253', 50785)) State.FROZEN -> State.WAITING
+2024-10-27 15:22:37,956 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:4b2:2b81:950e:6253', 54774) -> ('2601:547:1900:9810:312c:1841:6d69:d43b', 62030)) State.FROZEN -> State.WAITING
+2024-10-27 15:22:37,956 [INFO] aioice.ice: Connection(1) Check CandidatePair(('10.0.0.34', 64765) -> ('10.0.0.34', 61225)) State.FROZEN -> State.WAITING
+2024-10-27 15:22:37,956 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:4b2:2b81:950e:6253', 54774) -> ('2601:547:1900:9810:4b2:2b81:950e:6253', 50785)) State.WAITING -> State.IN_PROGRESS
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:4b2:2b81:950e:6253', 54774) -> ('2601:547:1900:9810:4b2:2b81:950e:6253', 50785)) State.IN_PROGRESS -> State.SUCCEEDED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:312c:1841:6d69:d43b', 55612) -> ('2601:547:1900:9810:4b2:2b81:950e:6253', 50785)) State.WAITING -> State.FAILED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810::36c3', 52449) -> ('2601:547:1900:9810:4b2:2b81:950e:6253', 50785)) State.WAITING -> State.FAILED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:4b2:2b81:950e:6253', 54774) -> ('2601:547:1900:9810:312c:1841:6d69:d43b', 62030)) State.WAITING -> State.FAILED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:312c:1841:6d69:d43b', 55612) -> ('2601:547:1900:9810:312c:1841:6d69:d43b', 62030)) State.FROZEN -> State.FAILED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810::36c3', 52449) -> ('2601:547:1900:9810:312c:1841:6d69:d43b', 62030)) State.FROZEN -> State.FAILED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('10.0.0.34', 64765) -> ('10.0.0.34', 61225)) State.WAITING -> State.FAILED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:4b2:2b81:950e:6253', 54774) -> ('2601:547:1900:9810::36c3', 62311)) State.FROZEN -> State.FAILED
+2024-10-27 15:22:37,957 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810:312c:1841:6d69:d43b', 55612) -> ('2601:547:1900:9810::36c3', 62311)) State.FROZEN -> State.FAILED
+2024-10-27 15:22:37,958 [INFO] aioice.ice: Connection(1) Check CandidatePair(('2601:547:1900:9810::36c3', 52449) -> ('2601:547:1900:9810::36c3', 62311)) State.FROZEN -> State.FAILED
+2024-10-27 15:22:37,958 [INFO] aioice.ice: Connection(1) Check CandidatePair(('10.0.0.34', 64765) -> ('73.117.127.211', 61225)) State.FROZEN -> State.FAILED
+2024-10-27 15:22:37,958 [INFO] aioice.ice: Connection(1) ICE completed
+2024-10-27 15:22:37,988 [WARNING] aiortc.rtcrtpsender: RTCRtpsender(video) Traceback (most recent call last):
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcrtpsender.py", line 346, in _run_rtp
+    enc_frame = await self._next_encoded_frame(codec)
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcrtpsender.py", line 273, in _next_encoded_frame
+    data = await self.__track.recv()
+  File "/Users/shahram/Desktop/Nimble-Challenge/server.py", line 125, in recv
+    frame.time_base = 1/self._settings.target_fps
+  File "av/frame.pyx", line 124, in av.frame.Frame.time_base.__set__
+  File "av/utils.pyx", line 61, in av.utils.to_avrational
+OverflowError: value too large to convert to int
+
+2024-10-27 15:22:45,872 [INFO] __main__: Shutting down server
+2024-10-27 15:22:45,874 [INFO] __main__: Server stopped by user
