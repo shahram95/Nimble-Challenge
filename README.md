@@ -19,6 +19,8 @@ To set up the environment for this project, please follow these steps:
    pip install -r requirements.txt
    ```
 
+pytest test_client.py -v
+pytest test_server.py -v
 
 ## Skills Needed
 - Linux (Ubuntu 22.04+ recommended)
