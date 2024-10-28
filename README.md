@@ -14,6 +14,8 @@ A real-time ball tracking application using WebRTC for video streaming and coord
 
 ## Prerequisites
 
+### This challenge was primarily coded up in macOS, and tested on Windows 11 and Ubuntu 20.04.
+
 - Python 3.10 or higher
 - Conda (recommended for environment management)
 - Linux, macOS, or Windows operating system
@@ -22,18 +24,17 @@ A real-time ball tracking application using WebRTC for video streaming and coord
 
 1. Create a new Conda environment:
     ```bash
-    conda create -n "ball_tracking" python=3.10 pip
+    conda create -n "nimble_env" python=3.10 pip
     ```
 
 2. Activate the environment:
     ```bash
-    conda activate ball_tracking
+    conda activate nimble_env
     ```
 
-3. Clone the repository:
+3. Goto directory:
     ```bash
-    git clone <repository-url>
-    cd ball-tracking
+    cd <path to directory>/Nimble-Challenge
     ```
 
 4. Install dependencies:
