@@ -1,93 +1,162 @@
-# Nimble Programming Challenge
+# Ball Tracking with WebRTC
 
-## Setup instructions
+A real-time ball tracking application using WebRTC for video streaming and coordinate transmission. The server generates an animated bouncing ball, streams it to the client, and receives back the detected ball coordinates for accuracy analysis.
 
-To set up the environment for this project, please follow these steps:
+## Features
 
-1. **Create a new Conda environment:**
-   ```bash
-   conda create -n "nimble_env" python=3.10 pip
-   ```
+- Real-time video streaming using WebRTC
+- Animated bouncing ball generation
+- Multi-process ball position detection
+- Bi-directional communication (video stream and coordinate data)
+- Performance monitoring and metrics
+- Comprehensive error analysis
+- Automated testing suite
 
-2. **Activate the Conda environment:**
-   ```bash
-   conda activate nimble_env
-   ```
+## Prerequisites
 
-3. **Install the required packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+- Python 3.10 or higher
+- Conda (recommended for environment management)
+- Linux, macOS, or Windows operating system
 
-pytest test_client.py -v
-pytest test_server.py -v
+## Installation
 
-## Skills Needed
-- Linux (Ubuntu 22.04+ recommended)
-- Python 3 (3.10+ recommended)
-- Python numpy (http://www.numpy.org/)
-- Python opencv (https://pypi.org/project/opencv-python/)
-- Python aiortc (https://github.com/aiortc/aiortc)
-- Python multiprocessing (https://docs.python.org/3.10/library/multiprocessing.html)
+1. Create a new Conda environment:
+    ```bash
+    conda create -n "ball_tracking" python=3.10 pip
+    ```
 
-## Requirements
+2. Activate the environment:
+    ```bash
+    conda activate ball_tracking
+    ```
 
-- [x] **1. Server Program**
-  - Make a server python program that runs from the command line (`python3 server.py`).
+3. Clone the repository:
+    ```bash
+    git clone <repository-url>
+    cd ball-tracking
+    ```
 
-- [x] **2. Client Program**
-  - Make a client python program that runs from the command line (`python3 client.py`).
+4. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-- [x] **3. Using `aiortc` built-in `TcpSocketSignaling`**
-  - [x] (a) The server should create an `aiortc offer` and send to client.
-  - [x] (b) The client should receive the offer and create an `aiortc answer`.
+### `requirements.txt`
+```plaintext
+aiortc==1.9.0
+opencv-python==4.10.0.84
+numpy==2.1.2
+pytest==8.3.3
+pytest-asyncio==0.24.0
+pytest-mock==3.14.0
+av==12.3.0
+aioice==0.9.0
+pyee==12.0.0
+pylibsrtp==0.10.0
+cryptography==43.0.3
+google-crc32c==1.6.0
+cffi==1.17.1
+psutil==6.1.0
+```
+## Known Issues and Workarounds
 
-- [x] **4. Image Generation**
-  - The server should generate a continuous 2D image/frames of a ball bouncing across the screen.
+### OpenCV and PyAV Compatibility
 
-- [x] **5. Image Transmission**
-  - The server should transmit these images to the client via `aiortc` using frame transport (extend `aiortc.MediaStreamTrack`).
+There is a known compatibility issue between PyAV (used by `aiortc`) and OpenCV's `imshow` function. The issue causes the application to hang when importing `aiortc` before using `cv2.imshow`.
 
-- [x] **6. Image Display**
-  - The client should display the received images using `opencv`.
+**Workaround:**
 
-- [x] **7. Multiprocessing Process**
-  - The client should start a new `multiprocessing.Process` (process_a).
+Initialize the OpenCV window before importing `aiortc`:
+```python
+import cv2
+import numpy as np
 
-- [x] **8. Frame Communication**
-  - The client should send every received frame to this process using a `multiprocessing.Queue`.
+# Initialize window first
+cv2.namedWindow("video", cv2.WINDOW_NORMAL)
+img = np.zeros((480, 640, 3), dtype=np.uint8)
+cv2.imshow('video', img)
+cv2.waitKey(1)
 
-- [x] **9. Image Parsing**
-  - The client `process_a` should parse the image and determine the current location of the ball as `x,y` coordinates.
+# Then import aiortc
+import aiortc
+```
+For more information, see:
 
-- [x] **10. Coordinate Storage**
-  - The client `process_a` should store the computed `x,y` coordinate as a `multiprocessing.Value`.
+- [aiortc Issue #734](https://github.com/aiortc/aiortc/issues/734)
+- [PyAV Issue #978](https://github.com/mikeboers/PyAV/issues/978)
 
-- [x] **11. Data Channel Communication**
-  - The client should open an `aiortc` data channel to the server and send each `x,y` coordinate to the server. These coordinates are from `process_a` but sent to the server from the client main thread.
+## Usage
 
-- [x] **12. Error Computation**
-  - The server program should display the received coordinates and compute the error to the actual location of the ball.
+1. Start the server:
+    ```bash
+    python server.py [--host HOST] [--port PORT] [--verbose]
+    ```
 
-- [x] **13. Documentation**
-  - Document all code using python docstrings.
+2. In a separate terminal, start the client:
+    ```bash
+    python client.py [--host HOST] [--port PORT] [--verbose] [--window-width WIDTH] [--window-height HEIGHT]
+    ```
 
-- [x] **14. Unit Tests**
-  - Write unit tests for all functions which will be executed by pytest (`pytest test_YOUR_SCRIPT.py`).
+### Command Line Arguments
 
-- [ ] **15. README**
-  - Include a `README` file.
+#### Server
+- `--host`: Server host address (default: 127.0.0.1)
+- `--port`: Server port number (default: 8080)
+- `--verbose`: Enable verbose logging
+- `--gc-interval`: Garbage collection interval in seconds (default: 5.0)
+- `--history-size`: Maximum size of tracking history (default: 30)
 
-- [x] **16. Screen Capture**
-  - Include a screen capture (mp4, mkv, avi, etc.) of your application in action.
+#### Client
+- `--host`: Server host address (default: 127.0.0.1)
+- `--port`: Server port number (default: 8080)
+- `--verbose`: Enable verbose logging
+- `--window-width`: Display window width (default: 800)
+- `--window-height`: Display window height (default: 600)
 
-- [ ] **17. Project Compression**
-  - Compress the project directory and include your name in the filename. Do not post solutions publicly.
+## Project Structure
+```plaintext
+ball-tracking/
+├── server.py           # Server implementation
+├── client.py           # Client implementation
+├── test_server.py      # Server unit tests
+├── test_client.py      # Client unit tests
+├── requirements.txt    # Project dependencies
+├── README.md           # This file
+└── logs/               # Application logs directory
+```
 
-- [ ] **18. Docker Image**
-  - [ ] (a) Make a `docker` image (Dockerfile) for the server.
-  - [ ] (b) Make a `docker` image (Dockerfile) for the client.
+## Testing
 
-- [ ] **19. Kubernetes**
-  - [ ] (a) Create `kubernetes` manifest yaml files for client and server deployment.
-  - [ ] (b) Docs for deploying it (using `minikube/k3s/microk8s` etc.).
+Run the test suite using `pytest`:
+```bash
+pytest test_server.py test_client.py -v
+```
+
+## Logging
+
+Both server and client applications generate detailed logs in the `logs` directory. Logs include:
+- Performance metrics
+- Connection states
+- Ball tracking accuracy
+- Error conditions
+
+Log files use a rotating file handler with a maximum size of 10MB and keep up to 5 backup files.
+
+## Performance Considerations
+
+- The application uses multiprocessing for ball detection to prevent UI blocking.
+- Garbage collection is performed at regular intervals.
+- Frame and position queues are size-limited to prevent memory issues.
+- Performance metrics are displayed in real-time.
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
