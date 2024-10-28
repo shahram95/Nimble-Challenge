@@ -150,13 +150,79 @@ Log files use a rotating file handler with a maximum size of 10MB and keep up to
 - Frame and position queues are size-limited to prevent memory issues.
 - Performance metrics are displayed in real-time.
 
-## Contributing
+## Docker and Kubernetes Deployment
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+### Docker Setup
+
+The application can be containerized and run using Docker for consistent deployment across environments.
+
+1. Build and start with Docker Compose:
+```bash
+docker compose up --build
+```
+
+### Stop and Clean Up
+```bash
+# Stop containers
+docker compose down
+
+# Clean up
+docker system prune -a
+```
+
+### Individual Container Builds
+#### Build Images
+```bash
+# Build server image
+docker build -t nimble-server:latest -f Dockerfile.server .
+
+# Build client image
+docker build -t nimble-client:latest -f Dockerfile.client .
+```
+
+#### Run Containers
+```bash
+# Run server
+docker run --name nimble-server -p 8080:8080 nimble-server:latest
+
+# Run client
+docker run --name nimble-client \
+  -v /tmp/.X11-unix:/tmp/.X11-unix \
+  -e DISPLAY=${DISPLAY} \
+  nimble-client:latest
+```
+
+### Kubernetes Deployment
+
+Deploy the application on Kubernetes using Minikube:
+
+#### Start Minikube
+
+```bash
+minikube start
+```
+
+#### Load Docker images
+
+```bash
+minikube image load nimble-server:latest
+minikube image load nimble-client:latest
+```
+
+#### Apply Kubernetes manifests
+
+```bash
+kubectl apply -f kubernetes/server-deployment.yaml
+kubectl apply -f kubernetes/server-service.yaml
+kubectl apply -f kubernetes/client-deployment.yaml
+```
+
+#### Verify deployment
+
+```bash
+# Check all resources
+kubectl get all
+```
 
 ## License
 

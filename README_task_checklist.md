@@ -84,10 +84,10 @@ pytest test_server.py -v
 - [ ] **17. Project Compression**
   - Compress the project directory and include your name in the filename. Do not post solutions publicly.
 
-- [ ] **18. Docker Image**
-  - [ ] (a) Make a `docker` image (Dockerfile) for the server.
-  - [ ] (b) Make a `docker` image (Dockerfile) for the client.
+- [x] **18. Docker Image**
+  - [x] (a) Make a `docker` image (Dockerfile) for the server.
+  - [x] (b) Make a `docker` image (Dockerfile) for the client.
 
-- [ ] **19. Kubernetes**
-  - [ ] (a) Create `kubernetes` manifest yaml files for client and server deployment.
-  - [ ] (b) Docs for deploying it (using `minikube/k3s/microk8s` etc.).
+- [x] **19. Kubernetes**
+  - [x] (a) Create `kubernetes` manifest yaml files for client and server deployment.
+  - [x] (b) Docs for deploying it (using `minikube/k3s/microk8s` etc.).
