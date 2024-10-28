@@ -202,19 +202,18 @@ Deploy the application on Kubernetes using Minikube:
 minikube start
 ```
 
-#### Load Docker images
+#### Configure shell to use Minikube's Docker Daemon
 
 ```bash
-minikube image load nimble-server:latest
-minikube image load nimble-client:latest
+eval $(minikube docker-env)
+# Verification should show nimble-server:latest and nimble-client:latest
+docker images
 ```
 
 #### Apply Kubernetes manifests
 
 ```bash
-kubectl apply -f kubernetes/server-deployment.yaml
-kubectl apply -f kubernetes/server-service.yaml
-kubectl apply -f kubernetes/client-deployment.yaml
+kubectl apply -f kubernetes/
 ```
 
 #### Verify deployment

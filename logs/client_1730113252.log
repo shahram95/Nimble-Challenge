@@ -1,0 +1,7 @@
+2024-10-28 11:00:52,592 - INFO - client - Starting application with args: {'host': 'localhost', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-28 11:00:52,598 - INFO - client - Connecting to server at localhost:8080
+2024-10-28 11:00:52,600 - INFO - client - Frame processor started
+2024-10-28 11:00:52,602 - INFO - client - Frame processor started
+2024-10-28 11:00:52,629 - INFO - client - Video track received and processing started
+2024-10-28 11:00:52,662 - INFO - client - Sent answer to server
+2024-10-28 11:00:52,696 - INFO - client - Data channel 'coordinates' established
