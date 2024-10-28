@@ -1,0 +1,7 @@
+2024-10-28 09:09:10,017 - INFO - client - Starting application with args: {'host': 'nimble-server', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-28 09:09:10,022 - INFO - client - Connecting to server at nimble-server:8080
+2024-10-28 09:09:10,024 - INFO - client - Frame processor started
+2024-10-28 09:09:10,025 - INFO - client - Frame processor started
+2024-10-28 09:09:10,044 - INFO - client - Video track received and processing started
+2024-10-28 09:09:10,076 - INFO - client - Sent answer to server
+2024-10-28 09:09:10,105 - INFO - client - Data channel 'coordinates' established

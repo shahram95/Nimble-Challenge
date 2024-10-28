@@ -1,0 +1,4 @@
+2024-10-28 09:44:39,320 - INFO - client - Starting application with args: {'host': 'server', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-28 09:44:39,326 - INFO - client - Connecting to server at server:8080
+2024-10-28 09:44:39,327 - INFO - client - Frame processor started
+2024-10-28 09:44:39,328 - INFO - client - Frame processor started

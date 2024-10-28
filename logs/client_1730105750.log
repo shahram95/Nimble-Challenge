@@ -1,0 +1,5 @@
+2024-10-28 08:55:50,146 - INFO - client - Starting application with args: {'host': 'nimble-server-service', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-28 08:55:50,151 - INFO - client - Connecting to server at nimble-server-service:8080
+2024-10-28 08:55:50,153 - INFO - client - Frame processor started
+2024-10-28 08:55:50,154 - INFO - client - Frame processor started
+2024-10-28 08:55:50,193 - ERROR - client - Connection error: [Errno -2] Name or service not known

@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nimble-client
+  labels:
+    app: nimble-client
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nimble-client
+  template:
+    metadata:
+      labels:
+        app: nimble-client
+    spec:
+      containers:
+      - name: client
+        image: nimble-client:latest
+        volumeMounts:
+        - name: logs
+          mountPath: /app/logs
+        - name: x11
+          mountPath: /tmp/.X11-unix
+        resources:
+          requests:
+            memory: "512Mi"
+            cpu: "500m"
+          limits:
+            memory: "1Gi"
+            cpu: "1000m"
+        env:
+        - name: DISPLAY
+          value: ":0"
+        - name: SERVER_HOST
+          value: "nimble-server-service"
+        - name: SERVER_PORT
+          value: "8080"
+      volumes:
+      - name: logs
+        emptyDir: {}
+      - name: x11
+        hostPath:
+          path: /tmp/.X11-unix

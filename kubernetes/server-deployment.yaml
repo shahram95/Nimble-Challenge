@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nimble-server
+  labels:
+    app: nimble-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nimble-server
+  template:
+    metadata:
+      labels:
+        app: nimble-server
+    spec:
+      containers:
+      - name: server
+        image: nimble-server:latest
+        ports:
+        - containerPort: 8080
+        volumeMounts:
+        - name: logs
+          mountPath: /app/logs
+        resources:
+          requests:
+            memory: "512Mi"
+            cpu: "500m"
+          limits:
+            memory: "1Gi"
+            cpu: "1000m"
+        env:
+        - name: DISPLAY
+          value: ":0"
+      volumes:
+      - name: logs
+        emptyDir: {}

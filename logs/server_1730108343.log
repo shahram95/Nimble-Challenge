@@ -1,0 +1,3 @@
+2024-10-28 09:39:03,039 - INFO - __main__ - Starting application with args: {'host': '0.0.0.0', 'port': 8080, 'verbose': False, 'gc_interval': 5.0, 'history_size': 30}
+2024-10-28 09:39:03,043 - INFO - __main__ - Starting server on 0.0.0.0:8080
+2024-10-28 09:39:03,861 - INFO - __main__ - Server ready - waiting for connections

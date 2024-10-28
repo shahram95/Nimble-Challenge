@@ -1,0 +1,5 @@
+2024-10-28 09:15:58,914 - INFO - __main__ - Starting application with args: {'host': '0.0.0.0', 'port': 8080, 'verbose': False, 'gc_interval': 5.0, 'history_size': 30}
+2024-10-28 09:15:58,919 - INFO - __main__ - Starting server on 0.0.0.0:8080
+2024-10-28 09:15:59,024 - INFO - __main__ - Server ready - waiting for connections
+2024-10-28 09:15:59,076 - INFO - __main__ - Connection state changed to: connecting
+2024-10-28 09:15:59,100 - INFO - __main__ - Connection state changed to: connected

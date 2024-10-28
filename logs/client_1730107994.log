@@ -1,0 +1,5 @@
+2024-10-28 09:33:14,700 - INFO - client - Starting application with args: {'host': 'localhost', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-28 09:33:14,706 - INFO - client - Connecting to server at localhost:8080
+2024-10-28 09:33:14,708 - INFO - client - Frame processor started
+2024-10-28 09:33:14,709 - INFO - client - Frame processor started
+2024-10-28 09:33:14,711 - ERROR - client - Connection error: Multiple exceptions: [Errno 111] Connect call failed ('::1', 8080, 0, 0), [Errno 111] Connect call failed ('127.0.0.1', 8080)
