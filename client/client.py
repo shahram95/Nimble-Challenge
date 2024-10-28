@@ -42,7 +42,7 @@ logger = logging.getLogger("client")
 
 class PerformanceMonitor:
     """Monitors system and application performance"""
-    def __init__(self, max_samples: int = 10):  # Reduced from 30
+    def __init__(self, max_samples: int = 10): 
         self._process = psutil.Process()
         self._start_time = time.time()
         self._frame_times = []
@@ -56,7 +56,7 @@ class PerformanceMonitor:
         self._last_frame_time = current_time
         
         self._frame_times.append(frame_time)
-        while len(self._frame_times) > self._max_samples:  # Changed if to while
+        while len(self._frame_times) > self._max_samples:
             self._frame_times.pop(0)
             
         metrics = {
@@ -194,7 +194,7 @@ class VideoReceiver(MediaStreamTrack):
                 else:
                     self._display.close_display()
                     
-            # Log stats every 5 seconds instead of every 100 frames
+            # Log stats every 5 seconds
             current_time = time.time()
             if current_time - self._last_log_time >= 5:
                 elapsed = current_time - self._start_time
@@ -304,7 +304,7 @@ class FrameProcessor(mp.Process):
                         except queue.Full:
                             logger.warning("Position queue full, skipping update")
                     
-                    # Log every 5 seconds instead of every 100 frames
+                    # Log every 5 seconds
                     current_time = time.time()
                     if current_time - self._last_log_time >= 5:
                         elapsed = current_time - self._start_time
@@ -330,8 +330,8 @@ class WebRTCClient:
         self._signaling = TcpSocketSignaling(host, port)
         self._connection = RTCPeerConnection()
         # Reduced queue sizes
-        self._frame_queue = mp.Queue(maxsize=2)  # Reduced from 10
-        self._position_queue = mp.Queue(maxsize=2)  # Reduced from 10
+        self._frame_queue = mp.Queue(maxsize=2)
+        self._position_queue = mp.Queue(maxsize=2)
         self._data_channel: Optional[Any] = None
         self._processor = FrameProcessor(self._frame_queue, self._position_queue)
         self._processor.daemon = True

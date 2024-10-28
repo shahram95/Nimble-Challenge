@@ -1,0 +1,80 @@
+2024-10-28 07:19:37,895 - INFO - client - Starting application with args: {'host': '127.0.0.1', 'port': 8080, 'verbose': False, 'window_width': 800, 'window_height': 600}
+2024-10-28 07:19:37,937 - INFO - client - Connecting to server at 127.0.0.1:8080
+2024-10-28 07:19:37,941 - INFO - client - Frame processor started
+2024-10-28 07:19:37,955 - INFO - client - Video track received and processing started
+2024-10-28 07:19:37,985 - INFO - client - Sent answer to server
+2024-10-28 07:19:38,033 - INFO - client - Data channel 'coordinates' established
+2024-10-28 07:19:42,960 - INFO - client - Sent 96 position updates in 5.0s (19.1 updates/s)
+2024-10-28 07:19:42,982 - INFO - client - Received 148 frames in 5.0s (29.4 FPS)
+2024-10-28 07:19:47,986 - INFO - client - Received 298 frames in 10.0s (29.7 FPS)
+2024-10-28 07:19:47,998 - INFO - client - Sent 185 position updates in 10.1s (18.4 updates/s)
+2024-10-28 07:19:52,986 - INFO - client - Received 448 frames in 15.0s (29.8 FPS)
+2024-10-28 07:19:52,998 - INFO - client - Sent 272 position updates in 15.1s (18.1 updates/s)
+2024-10-28 07:19:57,987 - INFO - client - Received 598 frames in 20.0s (29.9 FPS)
+2024-10-28 07:19:57,999 - INFO - client - Sent 366 position updates in 20.1s (18.2 updates/s)
+2024-10-28 07:20:03,016 - INFO - client - Received 749 frames in 25.1s (29.9 FPS)
+2024-10-28 07:20:03,028 - INFO - client - Sent 457 position updates in 25.1s (18.2 updates/s)
+2024-10-28 07:20:06,985 - INFO - client - Display closed after 868 frames
+2024-10-28 07:20:08,049 - INFO - client - Received 900 frames in 30.1s (29.9 FPS)
+2024-10-28 07:20:08,061 - INFO - client - Sent 550 position updates in 30.1s (18.3 updates/s)
+2024-10-28 07:20:13,051 - INFO - client - Received 1050 frames in 35.1s (29.9 FPS)
+2024-10-28 07:20:13,064 - INFO - client - Sent 648 position updates in 35.1s (18.4 updates/s)
+2024-10-28 07:20:14,283 - INFO - client - Stopped by user
+2024-10-28 07:20:14,285 - INFO - client - Application terminated
+2024-10-28 07:20:14,439 - INFO - client - Cleaning up after 36.5s runtime...
+2024-10-28 07:20:14,442 - ERROR - asyncio - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<RTCIceTransport._monitor() running at /opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcicetransport.py:346> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/anaconda3/envs/nimble/lib/python3.10/asyncio/tasks.py:864, Task.task_wakeup()]>>
+2024-10-28 07:20:14,442 - ERROR - asyncio - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Connection.query_consent() running at /opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aioice/ice.py:989> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-28 07:20:14,442 - ERROR - asyncio - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<RTCDtlsTransport.__run() running at /opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcdtlstransport.py:517> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-28 07:20:14,445 - WARNING - aiortc.rtcdtlstransport - RTCDtlsTransport(client) Traceback (most recent call last):
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcdtlstransport.py", line 517, in __run
+    await self._recv_next()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcdtlstransport.py", line 587, in _recv_next
+    data = await self.transport._recv()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aioice/ice.py", line 575, in recv
+    data, component = await self.recvfrom()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aioice/ice.py", line 591, in recvfrom
+    result = await self._queue.get()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/queues.py", line 161, in get
+    getter.cancel()  # Just in case getter is not done yet.
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/base_events.py", line 753, in call_soon
+    self._check_closed()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/base_events.py", line 515, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+
+2024-10-28 07:20:14,446 - ERROR - asyncio - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<RTCRtpReceiver._run_rtcp() running at /opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcrtpreceiver.py:545> wait_for=<Future cancelled>>
+2024-10-28 07:20:14,446 - ERROR - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-21' coro=<RTCRtpSender._run_rtp() done, defined at /opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcrtpsender.py:332> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/Users/shahram/Desktop/Nimble-Challenge/client/client.py", line 511, in main
+    loop.run_until_complete(client.start())
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcrtpsender.py", line 346, in _run_rtp
+    enc_frame = await self._next_encoded_frame(codec)
+  File "/opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcrtpsender.py", line 273, in _next_encoded_frame
+    data = await self.__track.recv()
+  File "/Users/shahram/Desktop/Nimble-Challenge/client/client.py", line 188, in recv
+    if self._display.update_display(bgr_frame):
+  File "/Users/shahram/Desktop/Nimble-Challenge/client/client.py", line 145, in update_display
+    key = cv.waitKey(self._config.frame_delay) & 0xFF
+KeyboardInterrupt
+2024-10-28 07:20:14,447 - ERROR - asyncio - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<RTCRtpSender._run_rtcp() running at /opt/anaconda3/envs/nimble/lib/python3.10/site-packages/aiortc/rtcrtpsender.py:410> wait_for=<Future pending cb=[Task.task_wakeup()]>>

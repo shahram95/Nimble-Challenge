@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 
 class PerformanceMonitor:
     """Monitors system and application performance metrics"""
-    def __init__(self, max_samples: int = 10):  # Reduced from 30
+    def __init__(self, max_samples: int = 10):
         self._process = psutil.Process()
         self._start_time = time.time()
         self._frame_times: List[float] = []
@@ -205,7 +205,7 @@ class VideoGenerator(MediaStreamTrack):
 
 class PositionTracker:
     """Tracks and analyzes ball position data"""
-    def __init__(self, max_history: int = 30):  # Reduced from 100
+    def __init__(self, max_history: int = 30):
         self._position_history: List[Tuple[int, int]] = []
         self._error_history: List[float] = []
         self._max_history = max_history
